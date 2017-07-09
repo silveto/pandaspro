@@ -1,0 +1,867 @@
+
+
+# Sun Jul  2 00:34:30 2017 HA Group Notification (WEEKLY_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+Filesystem              kbytes       used      avail capacity  Mounted on
+/vol/vol0/           274596860    9436936  265159924       3%  /vol/vol0/
+/vol/vol0/.snapshot   14452464    2674616   11777848      19%  /vol/vol0/.snapshot
+/vol/vf_NAS_AURDIVIC_rootvol/    1992296      13404    1978892       1%  /vol/vf_NAS_AURDIVIC_rootvol/
+/vol/vf_NAS_AURDIVIC_rootvol/.snapshot     104856       7000      97856       7%  /vol/vf_NAS_AURDIVIC_rootvol/.snapshot
+/vol/wd_aurdivic_hobo_vol01/ 2040109468    2405664 2037703804       0%  /vol/wd_aurdivic_hobo_vol01/
+/vol/wd_aurdivic_hobo_vol01/.snapshot  107374180      20308  107353872       0%  /vol/wd_aurdivic_hobo_vol01/.snapshot
+/vol/wd_aurdivic_branch_vol01/ 2040109468     110912 2039998556       0%  /vol/wd_aurdivic_branch_vol01/
+/vol/wd_aurdivic_branch_vol01/.snapshot  107374180      20972  107353208       0%  /vol/wd_aurdivic_branch_vol01/.snapshot
+/vol/vf_NAS_AURDI02_rootvol/    1992296      15640    1976656       1%  /vol/vf_NAS_AURDI02_rootvol/
+/vol/vf_NAS_AURDI02_rootvol/.snapshot     104856       6140      98716       6%  /vol/vf_NAS_AURDI02_rootvol/.snapshot
+/vol/A3DOCKD0052_USER/    3735552      13520    3722032       0%  /vol/A3DOCKD0052_USER/
+/vol/A3DOCKD0052_USER/.snapshot     196608       1592     195016       1%  /vol/A3DOCKD0052_USER/.snapshot
+/vol/A3DOCKD0052_PROFILE/    3735552      36696    3698856       1%  /vol/A3DOCKD0052_PROFILE/
+/vol/A3DOCKD0052_PROFILE/.snapshot     196608       1544     195064       1%  /vol/A3DOCKD0052_PROFILE/.snapshot
+/vol/A3DOCKD0052_SHARED/  547880960   89636792  458244168      16%  /vol/A3DOCKD0052_SHARED/
+/vol/A3DOCKD0052_SHARED/.snapshot   28835840      18468   28817372       0%  /vol/A3DOCKD0052_SHARED/.snapshot
+/vol/vf_NAS_AURINT_rootvol/    1992296       1920    1990376       0%  /vol/vf_NAS_AURINT_rootvol/
+/vol/vf_NAS_AURINT_rootvol/.snapshot     104856      10488      94368      10%  /vol/vf_NAS_AURINT_rootvol/.snapshot
+/vol/vf_NAS_AURIACT_rootvol/    1992296       1928    1990368       0%  /vol/vf_NAS_AURIACT_rootvol/
+/vol/vf_NAS_AURIACT_rootvol/.snapshot     104856      10988      93868      10%  /vol/vf_NAS_AURIACT_rootvol/.snapshot
+/vol/vf_NAS_AURITAS_rootvol/    1992296       1916    1990380       0%  /vol/vf_NAS_AURITAS_rootvol/
+/vol/vf_NAS_AURITAS_rootvol/.snapshot     104856      10976      93880      10%  /vol/vf_NAS_AURITAS_rootvol/.snapshot
+/vol/wd_auriact_branch_vol01/  846725120  547755116  298970004      65%  /vol/wd_auriact_branch_vol01/
+/vol/wd_auriact_branch_vol01/.snapshot   44564480  100826372          0     226%  /vol/wd_auriact_branch_vol01/.snapshot
+/vol/wd_auritas_branch_vol01/  527958016  362553788  165404228      69%  /vol/wd_auritas_branch_vol01/
+/vol/wd_auritas_branch_vol01/.snapshot   27787264  112158092          0     404%  /vol/wd_auritas_branch_vol01/.snapshot
+/vol/wd_aurint_branch_vol01/  498073600   88009760  410063840      18%  /vol/wd_aurint_branch_vol01/
+/vol/wd_aurint_branch_vol01/.snapshot   26214400   36561188          0     139%  /vol/wd_aurint_branch_vol01/.snapshot
+/vol/vf_NAS_AURIQLD_rootvol/    1992296       2028    1990268       0%  /vol/vf_NAS_AURIQLD_rootvol/
+/vol/vf_NAS_AURIQLD_rootvol/.snapshot     104856      13140      91716      13%  /vol/vf_NAS_AURIQLD_rootvol/.snapshot
+/vol/wd_auriqld_hobo_vol01/ 4731699200  772319708 3959379492      16%  /vol/wd_auriqld_hobo_vol01/
+/vol/wd_auriqld_hobo_vol01/.snapshot  249036800  176494944   72541856      71%  /vol/wd_auriqld_hobo_vol01/.snapshot
+/vol/wd_auriqld_branch_vol01/ 2490368000 1692339724  798028276      68%  /vol/wd_auriqld_branch_vol01/
+/vol/wd_auriqld_branch_vol01/.snapshot  131072000  343797656          0     262%  /vol/wd_auriqld_branch_vol01/.snapshot
+/vol/wd_auriqld_branch_vol02/ 1992294400 1141073620  851220780      57%  /vol/wd_auriqld_branch_vol02/
+/vol/wd_auriqld_branch_vol02/.snapshot  104857600  170127436          0     162%  /vol/wd_auriqld_branch_vol02/.snapshot
+/vol/wd_auriqld_branch_vol03/  996147200  568913160  427234040      57%  /vol/wd_auriqld_branch_vol03/
+/vol/wd_auriqld_branch_vol03/.snapshot   52428800  126495632          0     241%  /vol/wd_auriqld_branch_vol03/.snapshot
+/vol/wd_auriqld_branch_vol04/  896532480  530698516  365833964      59%  /vol/wd_auriqld_branch_vol04/
+/vol/wd_auriqld_branch_vol04/.snapshot   47185920  121340260          0     257%  /vol/wd_auriqld_branch_vol04/.snapshot
+/vol/wd_auriqld_branch_vol05/ 1524105216  734639608  789465608      48%  /vol/wd_auriqld_branch_vol05/
+/vol/wd_auriqld_branch_vol05/.snapshot   80216064  145188736          0     181%  /vol/wd_auriqld_branch_vol05/.snapshot
+/vol/wd_auriqld_branch_vol06/  796917760  493094260  303823500      62%  /vol/wd_auriqld_branch_vol06/
+/vol/wd_auriqld_branch_vol06/.snapshot   41943040  104964968          0     250%  /vol/wd_auriqld_branch_vol06/.snapshot
+/vol/wd_auriqld_branch_vol07/  717225984  361305524  355920460      50%  /vol/wd_auriqld_branch_vol07/
+/vol/wd_auriqld_branch_vol07/.snapshot   37748736   92311484          0     245%  /vol/wd_auriqld_branch_vol07/.snapshot
+/vol/wd_auriqld_branch_vol08/  498073600  190860868  307212732      38%  /vol/wd_auriqld_branch_vol08/
+/vol/wd_auriqld_branch_vol08/.snapshot   26214400   70970556          0     271%  /vol/wd_auriqld_branch_vol08/.snapshot
+/vol/wd_auriqld_branch_vol09/ 1245184000  740402092  504781908      59%  /vol/wd_auriqld_branch_vol09/
+/vol/wd_auriqld_branch_vol09/.snapshot   65536000  181892824          0     278%  /vol/wd_auriqld_branch_vol09/.snapshot
+/vol/vf_NAS_AURIWA_rootvol/    1992296       1976    1990320       0%  /vol/vf_NAS_AURIWA_rootvol/
+/vol/vf_NAS_AURIWA_rootvol/.snapshot     104856      12636      92220      12%  /vol/vf_NAS_AURIWA_rootvol/.snapshot
+/vol/wd_auriwa_branch_vol01/ 1992294400 1266122404  726171996      64%  /vol/wd_auriwa_branch_vol01/
+/vol/wd_auriwa_branch_vol01/.snapshot  104857600  184013516          0     175%  /vol/wd_auriwa_branch_vol01/.snapshot
+/vol/wd_auriwa_branch_vol02/  567803904  264747356  303056548      47%  /vol/wd_auriwa_branch_vol02/
+/vol/wd_auriwa_branch_vol02/.snapshot   29884416   74898472          0     251%  /vol/wd_auriwa_branch_vol02/.snapshot
+/vol/wd_auriwa_branch_vol03/  498073600  237208800  260864800      48%  /vol/wd_auriwa_branch_vol03/
+/vol/wd_auriwa_branch_vol03/.snapshot   26214400   69153200          0     264%  /vol/wd_auriwa_branch_vol03/.snapshot
+/vol/wd_auriwa_branch_vol04/  498073600  315748648  182324952      63%  /vol/wd_auriwa_branch_vol04/
+/vol/wd_auriwa_branch_vol04/.snapshot   26214400   53236404          0     203%  /vol/wd_auriwa_branch_vol04/.snapshot
+/vol/wd_auriwa_branch_vol05/  498073600  308840336  189233264      62%  /vol/wd_auriwa_branch_vol05/
+/vol/wd_auriwa_branch_vol05/.snapshot   26214400   41850460          0     160%  /vol/wd_auriwa_branch_vol05/.snapshot
+/vol/wd_auriwa_hobo_vol01/ 4194304000 3494701112  699602888      83%  /vol/wd_auriwa_hobo_vol01/
+/vol/wd_auriwa_hobo_vol01/.snapshot          0  339739940          0     ---%  /vol/wd_auriwa_hobo_vol01/.snapshot
+/vol/vf_NAS_AURISA_rootvol/    1992296       1948    1990348       0%  /vol/vf_NAS_AURISA_rootvol/
+/vol/vf_NAS_AURISA_rootvol/.snapshot     104856      12288      92568      12%  /vol/vf_NAS_AURISA_rootvol/.snapshot
+/vol/wd_aurisa_branch_vol01/ 1195376640  728262540  467114100      61%  /vol/wd_aurisa_branch_vol01/
+/vol/wd_aurisa_branch_vol01/.snapshot   62914560  134170068          0     213%  /vol/wd_aurisa_branch_vol01/.snapshot
+/vol/wd_aurisa_branch_vol02/  547880960  258165632  289715328      47%  /vol/wd_aurisa_branch_vol02/
+/vol/wd_aurisa_branch_vol02/.snapshot   28835840   93174536          0     323%  /vol/wd_aurisa_branch_vol02/.snapshot
+/vol/wd_aurisa_branch_vol03/ 1245184000  836253048  408930952      67%  /vol/wd_aurisa_branch_vol03/
+/vol/wd_aurisa_branch_vol03/.snapshot   65536000  169763696          0     259%  /vol/wd_aurisa_branch_vol03/.snapshot
+/vol/wd_aurisa_hobo_vol01/ 4980736000 1949732672 3031003328      39%  /vol/wd_aurisa_hobo_vol01/
+/vol/wd_aurisa_hobo_vol01/.snapshot          0  166093192          0     ---%  /vol/wd_aurisa_hobo_vol01/.snapshot
+/vol/wd_auriQLD_hobo_vol01/ 4980736000 2790332848 2190403152      56%  /vol/wd_auriQLD_hobo_vol01/
+/vol/wd_auriQLD_hobo_vol01/.snapshot  262144000  426849824          0     163%  /vol/wd_auriQLD_hobo_vol01/.snapshot
+/vol/wd_auriQLD_hobo_vol02/ 4980736000 2117600232 2863135768      43%  /vol/wd_auriQLD_hobo_vol02/
+/vol/wd_auriQLD_hobo_vol02/.snapshot  262144000  203801832   58342168      78%  /vol/wd_auriQLD_hobo_vol02/.snapshot
+/vol/wd_aurinsw_hobo_vol01/ 8451522560 6232386844 2219135716      74%  /vol/wd_aurinsw_hobo_vol01/
+/vol/wd_aurinsw_hobo_vol01/.snapshot          0  955621376          0     ---%  /vol/wd_aurinsw_hobo_vol01/.snapshot
+/vol/wd_aurinsw_hobo_vol02/ 5877268480 5140133316  737135164      87%  /vol/wd_aurinsw_hobo_vol02/
+/vol/wd_aurinsw_hobo_vol02/.snapshot  309329920  576295332          0     186%  /vol/wd_aurinsw_hobo_vol02/.snapshot
+/vol/wd_aurinsw_hobo_vol03/ 4582277120 3658213844  924063276      80%  /vol/wd_aurinsw_hobo_vol03/
+/vol/wd_aurinsw_hobo_vol03/.snapshot  241172480  281033288          0     117%  /vol/wd_aurinsw_hobo_vol03/.snapshot
+/vol/wd_aurinsw_hobo_vol04/ 8965324800 7454541456 1510783344      83%  /vol/wd_aurinsw_hobo_vol04/
+/vol/wd_aurinsw_hobo_vol04/.snapshot  471859200 1014696668          0     215%  /vol/wd_aurinsw_hobo_vol04/.snapshot
+/vol/wd_aurinsw_hobo_vol05/ 4383047680 3679910712  703136968      84%  /vol/wd_aurinsw_hobo_vol05/
+/vol/wd_aurinsw_hobo_vol05/.snapshot  230686720  446587172          0     194%  /vol/wd_aurinsw_hobo_vol05/.snapshot
+/vol/wd_aurinsw_hobo_vol06/ 6202327040 4838994792 1363332248      78%  /vol/wd_aurinsw_hobo_vol06/
+/vol/wd_aurinsw_hobo_vol06/.snapshot  613416960  552434572   60982388      90%  /vol/wd_aurinsw_hobo_vol06/.snapshot
+/vol/wd_aurinsw_hobo_vol07/ 7769948160 6844526516  925421644      88%  /vol/wd_aurinsw_hobo_vol07/
+/vol/wd_aurinsw_hobo_vol07/.snapshot  408944640  475262904          0     116%  /vol/wd_aurinsw_hobo_vol07/.snapshot
+/vol/wd_auriact_branch_vol01_copy/  498073600  278019908  220053692      56%  /vol/wd_auriact_branch_vol01_copy/
+/vol/wd_auriact_branch_vol01_copy/.snapshot   26214400          0   26214400       0%  /vol/wd_auriact_branch_vol01_copy/.snapshot
+/vol/vf_NAS_NSW_HOBO_rootvol/    6973032    2914956    4058076      42%  /vol/vf_NAS_NSW_HOBO_rootvol/
+/vol/vf_NAS_NSW_HOBO_rootvol/.snapshot     367000      13400     353600       4%  /vol/vf_NAS_NSW_HOBO_rootvol/.snapshot
+/vol/vf_NAS_QLD_HOBO_rootvol/    1992296       2108    1990188       0%  /vol/vf_NAS_QLD_HOBO_rootvol/
+/vol/vf_NAS_QLD_HOBO_rootvol/.snapshot     104856       9616      95240       9%  /vol/vf_NAS_QLD_HOBO_rootvol/.snapshot
+/vol/vf_NAS_WA_HOBO_rootvol/    1992296       2108    1990188       0%  /vol/vf_NAS_WA_HOBO_rootvol/
+/vol/vf_NAS_WA_HOBO_rootvol/.snapshot     104856       9628      95228       9%  /vol/vf_NAS_WA_HOBO_rootvol/.snapshot
+/vol/vf_NAS_SA_HOBO_rootvol/    1992296       1844    1990452       0%  /vol/vf_NAS_SA_HOBO_rootvol/
+/vol/vf_NAS_SA_HOBO_rootvol/.snapshot     104856       8564      96292       8%  /vol/vf_NAS_SA_HOBO_rootvol/.snapshot
+/vol/wd_aurinsw_branch_vol01/ 4980736000 2473292116 2507443884      50%  /vol/wd_aurinsw_branch_vol01/
+/vol/wd_aurinsw_branch_vol01/.snapshot  262144000  257632964    4511036      98%  /vol/wd_aurinsw_branch_vol01/.snapshot
+/vol/wd_aurinsw_branch_vol02/ 4980736000 1684897932 3295838068      34%  /vol/wd_aurinsw_branch_vol02/
+/vol/wd_aurinsw_branch_vol02/.snapshot  262144000  339087696          0     129%  /vol/wd_aurinsw_branch_vol02/.snapshot
+/vol/wd_aurinsw_branch_vol03/ 4980736000  517192892 4463543108      10%  /vol/wd_aurinsw_branch_vol03/
+/vol/wd_aurinsw_branch_vol03/.snapshot  262144000  117734916  144409084      45%  /vol/wd_aurinsw_branch_vol03/.snapshot
+/vol/wd_aurinsw_branch_vol04/ 4980736000  168934012 4811801988       3%  /vol/wd_aurinsw_branch_vol04/
+/vol/wd_aurinsw_branch_vol04/.snapshot  262144000   56074880  206069120      21%  /vol/wd_aurinsw_branch_vol04/.snapshot
+/vol/wd_aurinsw_branch_vol05/ 4980736000  181504088 4799231912       4%  /vol/wd_aurinsw_branch_vol05/
+/vol/wd_aurinsw_branch_vol05/.snapshot  262144000   69762308  192381692      27%  /vol/wd_aurinsw_branch_vol05/.snapshot
+/vol/wd_aurinsw_branch_vol06/ 4980736000  589483052 4391252948      12%  /vol/wd_aurinsw_branch_vol06/
+/vol/wd_aurinsw_branch_vol06/.snapshot  262144000  261326416     817584     100%  /vol/wd_aurinsw_branch_vol06/.snapshot
+/vol/wd_aurinsw_branch_vol07/ 4980736000  779276568 4201459432      16%  /vol/wd_aurinsw_branch_vol07/
+/vol/wd_aurinsw_branch_vol07/.snapshot  262144000  227337792   34806208      87%  /vol/wd_aurinsw_branch_vol07/.snapshot
+/vol/wd_aurinsw_branch_vol08/ 4980736000  692978596 4287757404      14%  /vol/wd_aurinsw_branch_vol08/
+/vol/wd_aurinsw_branch_vol08/.snapshot  262144000  165937396   96206604      63%  /vol/wd_aurinsw_branch_vol08/.snapshot
+/vol/wd_aurinsw_branch_vol09/ 4980736000  181484780 4799251220       4%  /vol/wd_aurinsw_branch_vol09/
+/vol/wd_aurinsw_branch_vol09/.snapshot  262144000   69495124  192648876      27%  /vol/wd_aurinsw_branch_vol09/.snapshot
+/vol/wd_aurinsw_branch_vol10/ 4980736000  632524600 4348211400      13%  /vol/wd_aurinsw_branch_vol10/
+/vol/wd_aurinsw_branch_vol10/.snapshot  262144000  107351836  154792164      41%  /vol/wd_aurinsw_branch_vol10/.snapshot
+/vol/wd_aurinsw_branch_vol11/ 4980736000  110381476 4870354524       2%  /vol/wd_aurinsw_branch_vol11/
+/vol/wd_aurinsw_branch_vol11/.snapshot  262144000   68562692  193581308      26%  /vol/wd_aurinsw_branch_vol11/.snapshot
+/vol/wd_aurinsw_branch_vol12/ 4980736000  339552312 4641183688       7%  /vol/wd_aurinsw_branch_vol12/
+/vol/wd_aurinsw_branch_vol12/.snapshot  262144000  165717852   96426148      63%  /vol/wd_aurinsw_branch_vol12/.snapshot
+/vol/wd_aurinsw_branch_vol13/ 4980736000  153621752 4827114248       3%  /vol/wd_aurinsw_branch_vol13/
+/vol/wd_aurinsw_branch_vol13/.snapshot  262144000   28821524  233322476      11%  /vol/wd_aurinsw_branch_vol13/.snapshot
+/vol/wd_aurinsw_branch_vol14/ 4980736000  503332304 4477403696      10%  /vol/wd_aurinsw_branch_vol14/
+/vol/wd_aurinsw_branch_vol14/.snapshot  262144000  115260996  146883004      44%  /vol/wd_aurinsw_branch_vol14/.snapshot
+/vol/vf_NAS_AURINSW_rootvol/     996148       1504     994644       0%  /vol/vf_NAS_AURINSW_rootvol/
+/vol/vf_NAS_AURINSW_rootvol/.snapshot      52428      12524      39904      24%  /vol/vf_NAS_AURINSW_rootvol/.snapshot
+/vol/sv_test_vol/      9961472       4684    9956788       0%  /vol/sv_test_vol/
+/vol/sv_test_vol/.snapshot     524288       4756     519532       1%  /vol/sv_test_vol/.snapshot
+/vol/wd_auriwa_branch_vol06/  398458880     601868  397857012       0%  /vol/wd_auriwa_branch_vol06/
+/vol/wd_auriwa_branch_vol06/.snapshot   20971520      77756   20893764       0%  /vol/wd_auriwa_branch_vol06/.snapshot
+/vol/vol_SIF_Dev_01/  263979008      40464  263938544       0%  /vol/vol_SIF_Dev_01/
+/vol/vol_SIF_Dev_01/.snapshot   13893632      40324   13853308       0%  /vol/vol_SIF_Dev_01/.snapshot
+/vol/vol_trace/        9961472    1730424    8231048      17%  /vol/vol_trace/
+/vol/vol_trace/.snapshot     524288       4304     519984       1%  /vol/vol_trace/.snapshot
+/vol/vol_trace_test/   19922944    6507516   13415428      33%  /vol/vol_trace_test/
+/vol/vol_trace_test/.snapshot    1048576       6992    1041584       1%  /vol/vol_trace_test/.snapshot
+/vol/vol_trace_test_qld/   19922944    4221776   15701168      21%  /vol/vol_trace_test_qld/
+/vol/vol_trace_test_qld/.snapshot    1048576       2040    1046536       0%  /vol/vol_trace_test_qld/.snapshot
+/vol/Siebel_App_Datavol01/   10485760       7448   10478312       0%  /vol/Siebel_App_Datavol01/
+/vol/Siebel_App_Datavol01/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol01/.snapshot
+/vol/Siebel_App_Datavol02/   10485760       9128   10476632       0%  /vol/Siebel_App_Datavol02/
+/vol/Siebel_App_Datavol02/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol02/.snapshot
+/vol/Siebel_App_Datavol03/   10485760     178124   10307636       2%  /vol/Siebel_App_Datavol03/
+/vol/Siebel_App_Datavol03/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol03/.snapshot
+/vol/Siebel_App_Datavol04/   10485760     179116   10306644       2%  /vol/Siebel_App_Datavol04/
+/vol/Siebel_App_Datavol04/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol04/.snapshot
+/vol/vf_test_rootvol/    9961472       4784    9956688       0%  /vol/vf_test_rootvol/
+/vol/vf_test_rootvol/.snapshot     524288       4296     519992       1%  /vol/vf_test_rootvol/.snapshot
+/vol/TestVol/          9961472     169940    9791532       2%  /vol/TestVol/
+/vol/TestVol/.snapshot     524288       4292     519996       1%  /vol/TestVol/.snapshot
+/vol/BBC_restore_temp/  104857600      33632  104823968       0%  /vol/BBC_restore_temp/
+/vol/BBC_restore_temp/.snapshot          0      29796          0     ---%  /vol/BBC_restore_temp/.snapshot
+
+
+# Sun Jul  2 00:14:30 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="c958b292-2fc4-4c62-bcbf-90c9438a988e1499392178793" response_time="00:00:00:056"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017070108010233}</message></status></xml>
+
+# Sun Jul  2 00:00:09 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="5d99c3a0-ad80-49d0-a921-234b8a25aa441499392179412" response_time="00:00:00:047"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017070107040058}</message></status></xml>
+
+# Sat Jul  1 00:24:23 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="f491014e-afc1-4a8a-9002-27333929b9041499392180029" response_time="00:00:00:062"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017063008120059, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Sat Jul  1 00:00:11 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="5e0e2052-59d6-42e4-897a-1be5cb2e601c1499392180450" response_time="00:00:00:050"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017063007080068, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Fri Jun 30 00:24:14 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="409075b9-67da-4f16-96e0-19d22a55b7ba1499392180877" response_time="00:00:00:052"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062908240047, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Fri Jun 30 00:00:09 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="8724463d-fbee-421b-8dfb-5a3987a3a71f1499392181284" response_time="00:00:00:045"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062907040071}</message></status></xml>
+
+# Thu Jun 29 00:00:12 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="96563d23-7da6-4fb3-9887-e2cc25a52edb1499392181681" response_time="00:00:00:057"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062807400054}</message></status></xml>
+
+# Thu Jun 29 00:04:06 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="c08643e6-7aa6-402e-9170-4201cb69a7a71499392182103" response_time="00:00:00:059"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062807320033}</message></status></xml>
+
+# Wed Jun 28 00:00:15 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="b76ad569-63f5-44e9-9d4a-eb33af5381bc1499392182518" response_time="00:00:00:045"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062707560057}</message></status></xml>
+
+# Wed Jun 28 00:04:00 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="3d74871b-58a7-45c1-ade9-c77a2df17e091499392182968" response_time="00:00:00:045"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062707360046, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Tue Jun 27 00:33:53 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="60b90a62-7cad-4359-8fd5-ffc5dc0285c21499392183486" response_time="00:00:00:052"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062608020031}</message></status></xml>
+
+# Tue Jun 27 00:02:02 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="2dc405fa-0d98-498a-95e0-00d9fcd009221499392183918" response_time="00:00:00:067"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062607180046, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Mon Jun 26 00:26:39 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="5878ce70-4af6-46ae-a81d-ee365776c1c51499392184345" response_time="00:00:00:047"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062508110009}</message></status></xml>
+
+# Mon Jun 26 00:23:45 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="ac2d9975-3f74-4c73-ae89-0329afbd8a0d1499392184752" response_time="00:00:00:065"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062507380139}</message></status></xml>
+
+# Sun Jun 25 00:33:39 2017 HA Group Notification (WEEKLY_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+Filesystem              kbytes       used      avail capacity  Mounted on
+/vol/vol0/           274596860    9433216  265163644       3%  /vol/vol0/
+/vol/vol0/.snapshot   14452464    2377124   12075340      16%  /vol/vol0/.snapshot
+/vol/vf_NAS_AURDIVIC_rootvol/    1992296      13404    1978892       1%  /vol/vf_NAS_AURDIVIC_rootvol/
+/vol/vf_NAS_AURDIVIC_rootvol/.snapshot     104856       6632      98224       6%  /vol/vf_NAS_AURDIVIC_rootvol/.snapshot
+/vol/wd_aurdivic_hobo_vol01/ 2040109468    2405692 2037703776       0%  /vol/wd_aurdivic_hobo_vol01/
+/vol/wd_aurdivic_hobo_vol01/.snapshot  107374180      20272  107353908       0%  /vol/wd_aurdivic_hobo_vol01/.snapshot
+/vol/wd_aurdivic_branch_vol01/ 2040109468     110940 2039998528       0%  /vol/wd_aurdivic_branch_vol01/
+/vol/wd_aurdivic_branch_vol01/.snapshot  107374180      20500  107353680       0%  /vol/wd_aurdivic_branch_vol01/.snapshot
+/vol/vf_NAS_AURDI02_rootvol/    1992296      15644    1976652       1%  /vol/vf_NAS_AURDI02_rootvol/
+/vol/vf_NAS_AURDI02_rootvol/.snapshot     104856       6168      98688       6%  /vol/vf_NAS_AURDI02_rootvol/.snapshot
+/vol/A3DOCKD0052_USER/    3735552      13520    3722032       0%  /vol/A3DOCKD0052_USER/
+/vol/A3DOCKD0052_USER/.snapshot     196608       1340     195268       1%  /vol/A3DOCKD0052_USER/.snapshot
+/vol/A3DOCKD0052_PROFILE/    3735552      36696    3698856       1%  /vol/A3DOCKD0052_PROFILE/
+/vol/A3DOCKD0052_PROFILE/.snapshot     196608       1288     195320       1%  /vol/A3DOCKD0052_PROFILE/.snapshot
+/vol/A3DOCKD0052_SHARED/  547880960   89636792  458244168      16%  /vol/A3DOCKD0052_SHARED/
+/vol/A3DOCKD0052_SHARED/.snapshot   28835840      15632   28820208       0%  /vol/A3DOCKD0052_SHARED/.snapshot
+/vol/vf_NAS_AURINT_rootvol/    1992296       1924    1990372       0%  /vol/vf_NAS_AURINT_rootvol/
+/vol/vf_NAS_AURINT_rootvol/.snapshot     104856      10300      94556      10%  /vol/vf_NAS_AURINT_rootvol/.snapshot
+/vol/vf_NAS_AURIACT_rootvol/    1992296       1928    1990368       0%  /vol/vf_NAS_AURIACT_rootvol/
+/vol/vf_NAS_AURIACT_rootvol/.snapshot     104856       9936      94920       9%  /vol/vf_NAS_AURIACT_rootvol/.snapshot
+/vol/vf_NAS_AURITAS_rootvol/    1992296       1916    1990380       0%  /vol/vf_NAS_AURITAS_rootvol/
+/vol/vf_NAS_AURITAS_rootvol/.snapshot     104856      10620      94236      10%  /vol/vf_NAS_AURITAS_rootvol/.snapshot
+/vol/wd_auriact_branch_vol01/  846725120  544958996  301766124      64%  /vol/wd_auriact_branch_vol01/
+/vol/wd_auriact_branch_vol01/.snapshot   44564480   99008248          0     222%  /vol/wd_auriact_branch_vol01/.snapshot
+/vol/wd_auritas_branch_vol01/  527958016  361013160  166944856      68%  /vol/wd_auritas_branch_vol01/
+/vol/wd_auritas_branch_vol01/.snapshot   27787264  110909012          0     399%  /vol/wd_auritas_branch_vol01/.snapshot
+/vol/wd_aurint_branch_vol01/  498073600   86313836  411759764      17%  /vol/wd_aurint_branch_vol01/
+/vol/wd_aurint_branch_vol01/.snapshot   26214400   34991620          0     133%  /vol/wd_aurint_branch_vol01/.snapshot
+/vol/vf_NAS_AURIQLD_rootvol/    1992296       2028    1990268       0%  /vol/vf_NAS_AURIQLD_rootvol/
+/vol/vf_NAS_AURIQLD_rootvol/.snapshot     104856      12888      91968      12%  /vol/vf_NAS_AURIQLD_rootvol/.snapshot
+/vol/wd_auriqld_hobo_vol01/ 4731699200  772319800 3959379400      16%  /vol/wd_auriqld_hobo_vol01/
+/vol/wd_auriqld_hobo_vol01/.snapshot  249036800  176435448   72601352      71%  /vol/wd_auriqld_hobo_vol01/.snapshot
+/vol/wd_auriqld_branch_vol01/ 2490368000 1685065800  805302200      68%  /vol/wd_auriqld_branch_vol01/
+/vol/wd_auriqld_branch_vol01/.snapshot  131072000  340583296          0     260%  /vol/wd_auriqld_branch_vol01/.snapshot
+/vol/wd_auriqld_branch_vol02/ 1992294400 1142287400  850007000      57%  /vol/wd_auriqld_branch_vol02/
+/vol/wd_auriqld_branch_vol02/.snapshot  104857600  172899196          0     165%  /vol/wd_auriqld_branch_vol02/.snapshot
+/vol/wd_auriqld_branch_vol03/  996147200  570817460  425329740      57%  /vol/wd_auriqld_branch_vol03/
+/vol/wd_auriqld_branch_vol03/.snapshot   52428800  129447872          0     247%  /vol/wd_auriqld_branch_vol03/.snapshot
+/vol/wd_auriqld_branch_vol04/  896532480  533035824  363496656      59%  /vol/wd_auriqld_branch_vol04/
+/vol/wd_auriqld_branch_vol04/.snapshot   47185920  124291836          0     263%  /vol/wd_auriqld_branch_vol04/.snapshot
+/vol/wd_auriqld_branch_vol05/ 1524105216  735867232  788237984      48%  /vol/wd_auriqld_branch_vol05/
+/vol/wd_auriqld_branch_vol05/.snapshot   80216064  147286104          0     184%  /vol/wd_auriqld_branch_vol05/.snapshot
+/vol/wd_auriqld_branch_vol06/  796917760  495721268  301196492      62%  /vol/wd_auriqld_branch_vol06/
+/vol/wd_auriqld_branch_vol06/.snapshot   41943040  108232116          0     258%  /vol/wd_auriqld_branch_vol06/.snapshot
+/vol/wd_auriqld_branch_vol07/  717225984  363813064  353412920      51%  /vol/wd_auriqld_branch_vol07/
+/vol/wd_auriqld_branch_vol07/.snapshot   37748736   94596528          0     251%  /vol/wd_auriqld_branch_vol07/.snapshot
+/vol/wd_auriqld_branch_vol08/  498073600  187111444  310962156      38%  /vol/wd_auriqld_branch_vol08/
+/vol/wd_auriqld_branch_vol08/.snapshot   26214400   69862552          0     267%  /vol/wd_auriqld_branch_vol08/.snapshot
+/vol/wd_auriqld_branch_vol09/ 1245184000  741247016  503936984      60%  /vol/wd_auriqld_branch_vol09/
+/vol/wd_auriqld_branch_vol09/.snapshot   65536000  182656152          0     279%  /vol/wd_auriqld_branch_vol09/.snapshot
+/vol/vf_NAS_AURIWA_rootvol/    1992296       1980    1990316       0%  /vol/vf_NAS_AURIWA_rootvol/
+/vol/vf_NAS_AURIWA_rootvol/.snapshot     104856      12248      92608      12%  /vol/vf_NAS_AURIWA_rootvol/.snapshot
+/vol/wd_auriwa_branch_vol01/ 1992294400 1262158052  730136348      63%  /vol/wd_auriwa_branch_vol01/
+/vol/wd_auriwa_branch_vol01/.snapshot  104857600  182059108          0     174%  /vol/wd_auriwa_branch_vol01/.snapshot
+/vol/wd_auriwa_branch_vol02/  567803904  268074468  299729436      47%  /vol/wd_auriwa_branch_vol02/
+/vol/wd_auriwa_branch_vol02/.snapshot   29884416   78503508          0     263%  /vol/wd_auriwa_branch_vol02/.snapshot
+/vol/wd_auriwa_branch_vol03/  498073600  240587752  257485848      48%  /vol/wd_auriwa_branch_vol03/
+/vol/wd_auriwa_branch_vol03/.snapshot   26214400   72944540          0     278%  /vol/wd_auriwa_branch_vol03/.snapshot
+/vol/wd_auriwa_branch_vol04/  498073600  319328544  178745056      64%  /vol/wd_auriwa_branch_vol04/
+/vol/wd_auriwa_branch_vol04/.snapshot   26214400   57097680          0     218%  /vol/wd_auriwa_branch_vol04/.snapshot
+/vol/wd_auriwa_branch_vol05/  498073600  310002216  188071384      62%  /vol/wd_auriwa_branch_vol05/
+/vol/wd_auriwa_branch_vol05/.snapshot   26214400   45497356          0     174%  /vol/wd_auriwa_branch_vol05/.snapshot
+/vol/wd_auriwa_hobo_vol01/ 3984588800 3492449236  492139564      88%  /vol/wd_auriwa_hobo_vol01/
+/vol/wd_auriwa_hobo_vol01/.snapshot          0  342280596          0     ---%  /vol/wd_auriwa_hobo_vol01/.snapshot
+/vol/vf_NAS_AURISA_rootvol/    1992296       1952    1990344       0%  /vol/vf_NAS_AURISA_rootvol/
+/vol/vf_NAS_AURISA_rootvol/.snapshot     104856      12404      92452      12%  /vol/vf_NAS_AURISA_rootvol/.snapshot
+/vol/wd_aurisa_branch_vol01/ 1195376640  725592172  469784468      61%  /vol/wd_aurisa_branch_vol01/
+/vol/wd_aurisa_branch_vol01/.snapshot   62914560  132329824          0     210%  /vol/wd_aurisa_branch_vol01/.snapshot
+/vol/wd_aurisa_branch_vol02/  547880960  256525684  291355276      47%  /vol/wd_aurisa_branch_vol02/
+/vol/wd_aurisa_branch_vol02/.snapshot   28835840   92166672          0     320%  /vol/wd_aurisa_branch_vol02/.snapshot
+/vol/wd_aurisa_branch_vol03/ 1245184000  828590700  416593300      67%  /vol/wd_aurisa_branch_vol03/
+/vol/wd_aurisa_branch_vol03/.snapshot   65536000  168760492          0     258%  /vol/wd_aurisa_branch_vol03/.snapshot
+/vol/wd_aurisa_hobo_vol01/ 4980736000 1930338744 3050397256      39%  /vol/wd_aurisa_hobo_vol01/
+/vol/wd_aurisa_hobo_vol01/.snapshot          0  162930412          0     ---%  /vol/wd_aurisa_hobo_vol01/.snapshot
+/vol/wd_auriQLD_hobo_vol01/ 4980736000 2782812816 2197923184      56%  /vol/wd_auriQLD_hobo_vol01/
+/vol/wd_auriQLD_hobo_vol01/.snapshot  262144000  429934184          0     164%  /vol/wd_auriQLD_hobo_vol01/.snapshot
+/vol/wd_auriQLD_hobo_vol02/ 4980736000 2114358204 2866377796      42%  /vol/wd_auriQLD_hobo_vol02/
+/vol/wd_auriQLD_hobo_vol02/.snapshot  262144000  215807512   46336488      82%  /vol/wd_auriQLD_hobo_vol02/.snapshot
+/vol/wd_aurinsw_hobo_vol01/ 8451522560 6208378868 2243143692      73%  /vol/wd_aurinsw_hobo_vol01/
+/vol/wd_aurinsw_hobo_vol01/.snapshot          0  948552512          0     ---%  /vol/wd_aurinsw_hobo_vol01/.snapshot
+/vol/wd_aurinsw_hobo_vol02/ 5877268480 5129260224  748008256      87%  /vol/wd_aurinsw_hobo_vol02/
+/vol/wd_aurinsw_hobo_vol02/.snapshot  309329920  572153424          0     185%  /vol/wd_aurinsw_hobo_vol02/.snapshot
+/vol/wd_aurinsw_hobo_vol03/ 4582277120 3657405104  924872016      80%  /vol/wd_aurinsw_hobo_vol03/
+/vol/wd_aurinsw_hobo_vol03/.snapshot  241172480  285482120          0     118%  /vol/wd_aurinsw_hobo_vol03/.snapshot
+/vol/wd_aurinsw_hobo_vol04/ 8965324800 7435440888 1529883912      83%  /vol/wd_aurinsw_hobo_vol04/
+/vol/wd_aurinsw_hobo_vol04/.snapshot  471859200  989558624          0     210%  /vol/wd_aurinsw_hobo_vol04/.snapshot
+/vol/wd_aurinsw_hobo_vol05/ 4383047680 3673646060  709401620      84%  /vol/wd_aurinsw_hobo_vol05/
+/vol/wd_aurinsw_hobo_vol05/.snapshot  230686720  449829632          0     195%  /vol/wd_aurinsw_hobo_vol05/.snapshot
+/vol/wd_aurinsw_hobo_vol06/ 6202327040 4822994680 1379332360      78%  /vol/wd_aurinsw_hobo_vol06/
+/vol/wd_aurinsw_hobo_vol06/.snapshot  613416960  549780576   63636384      90%  /vol/wd_aurinsw_hobo_vol06/.snapshot
+/vol/wd_aurinsw_hobo_vol07/ 7769948160 6789751836  980196324      87%  /vol/wd_aurinsw_hobo_vol07/
+/vol/wd_aurinsw_hobo_vol07/.snapshot  408944640  435179876          0     106%  /vol/wd_aurinsw_hobo_vol07/.snapshot
+/vol/wd_auriact_branch_vol01_copy/  498073600  278019904  220053696      56%  /vol/wd_auriact_branch_vol01_copy/
+/vol/wd_auriact_branch_vol01_copy/.snapshot   26214400          0   26214400       0%  /vol/wd_auriact_branch_vol01_copy/.snapshot
+/vol/vf_NAS_NSW_HOBO_rootvol/    6973032    2914948    4058084      42%  /vol/vf_NAS_NSW_HOBO_rootvol/
+/vol/vf_NAS_NSW_HOBO_rootvol/.snapshot     367000      13020     353980       4%  /vol/vf_NAS_NSW_HOBO_rootvol/.snapshot
+/vol/vf_NAS_QLD_HOBO_rootvol/    1992296       2108    1990188       0%  /vol/vf_NAS_QLD_HOBO_rootvol/
+/vol/vf_NAS_QLD_HOBO_rootvol/.snapshot     104856       9556      95300       9%  /vol/vf_NAS_QLD_HOBO_rootvol/.snapshot
+/vol/vf_NAS_WA_HOBO_rootvol/    1992296       2088    1990208       0%  /vol/vf_NAS_WA_HOBO_rootvol/
+/vol/vf_NAS_WA_HOBO_rootvol/.snapshot     104856       9308      95548       9%  /vol/vf_NAS_WA_HOBO_rootvol/.snapshot
+/vol/vf_NAS_SA_HOBO_rootvol/    1992296       1848    1990448       0%  /vol/vf_NAS_SA_HOBO_rootvol/
+/vol/vf_NAS_SA_HOBO_rootvol/.snapshot     104856       8640      96216       8%  /vol/vf_NAS_SA_HOBO_rootvol/.snapshot
+/vol/wd_aurinsw_branch_vol01/ 4980736000 2469779468 2510956532      50%  /vol/wd_aurinsw_branch_vol01/
+/vol/wd_aurinsw_branch_vol01/.snapshot  262144000  259854508    2289492      99%  /vol/wd_aurinsw_branch_vol01/.snapshot
+/vol/wd_aurinsw_branch_vol02/ 4980736000 1685172652 3295563348      34%  /vol/wd_aurinsw_branch_vol02/
+/vol/wd_aurinsw_branch_vol02/.snapshot  262144000  342325056          0     131%  /vol/wd_aurinsw_branch_vol02/.snapshot
+/vol/wd_aurinsw_branch_vol03/ 4980736000  516522112 4464213888      10%  /vol/wd_aurinsw_branch_vol03/
+/vol/wd_aurinsw_branch_vol03/.snapshot  262144000  126009260  136134740      48%  /vol/wd_aurinsw_branch_vol03/.snapshot
+/vol/wd_aurinsw_branch_vol04/ 4980736000  168716212 4812019788       3%  /vol/wd_aurinsw_branch_vol04/
+/vol/wd_aurinsw_branch_vol04/.snapshot  262144000   59827576  202316424      23%  /vol/wd_aurinsw_branch_vol04/.snapshot
+/vol/wd_aurinsw_branch_vol05/ 4980736000  181192988 4799543012       4%  /vol/wd_aurinsw_branch_vol05/
+/vol/wd_aurinsw_branch_vol05/.snapshot  262144000   72833012  189310988      28%  /vol/wd_aurinsw_branch_vol05/.snapshot
+/vol/wd_aurinsw_branch_vol06/ 4980736000  589884336 4390851664      12%  /vol/wd_aurinsw_branch_vol06/
+/vol/wd_aurinsw_branch_vol06/.snapshot  262144000  263957220          0     101%  /vol/wd_aurinsw_branch_vol06/.snapshot
+/vol/wd_aurinsw_branch_vol07/ 4980736000  774801088 4205934912      16%  /vol/wd_aurinsw_branch_vol07/
+/vol/wd_aurinsw_branch_vol07/.snapshot  262144000  230021944   32122056      88%  /vol/wd_aurinsw_branch_vol07/.snapshot
+/vol/wd_aurinsw_branch_vol08/ 4980736000  692405488 4288330512      14%  /vol/wd_aurinsw_branch_vol08/
+/vol/wd_aurinsw_branch_vol08/.snapshot  262144000  168322712   93821288      64%  /vol/wd_aurinsw_branch_vol08/.snapshot
+/vol/wd_aurinsw_branch_vol09/ 4980736000  181318372 4799417628       4%  /vol/wd_aurinsw_branch_vol09/
+/vol/wd_aurinsw_branch_vol09/.snapshot  262144000   72705228  189438772      28%  /vol/wd_aurinsw_branch_vol09/.snapshot
+/vol/wd_aurinsw_branch_vol10/ 4980736000  631909568 4348826432      13%  /vol/wd_aurinsw_branch_vol10/
+/vol/wd_aurinsw_branch_vol10/.snapshot  262144000  109886060  152257940      42%  /vol/wd_aurinsw_branch_vol10/.snapshot
+/vol/wd_aurinsw_branch_vol11/ 4980736000  110193748 4870542252       2%  /vol/wd_aurinsw_branch_vol11/
+/vol/wd_aurinsw_branch_vol11/.snapshot  262144000   67287812  194856188      26%  /vol/wd_aurinsw_branch_vol11/.snapshot
+/vol/wd_aurinsw_branch_vol12/ 4980736000  339293488 4641442512       7%  /vol/wd_aurinsw_branch_vol12/
+/vol/wd_aurinsw_branch_vol12/.snapshot  262144000  168916908   93227092      64%  /vol/wd_aurinsw_branch_vol12/.snapshot
+/vol/wd_aurinsw_branch_vol13/ 4980736000  153106620 4827629380       3%  /vol/wd_aurinsw_branch_vol13/
+/vol/wd_aurinsw_branch_vol13/.snapshot  262144000   32538172  229605828      12%  /vol/wd_aurinsw_branch_vol13/.snapshot
+/vol/wd_aurinsw_branch_vol14/ 4980736000  502417088 4478318912      10%  /vol/wd_aurinsw_branch_vol14/
+/vol/wd_aurinsw_branch_vol14/.snapshot  262144000  117756680  144387320      45%  /vol/wd_aurinsw_branch_vol14/.snapshot
+/vol/vf_NAS_AURINSW_rootvol/     996148       1504     994644       0%  /vol/vf_NAS_AURINSW_rootvol/
+/vol/vf_NAS_AURINSW_rootvol/.snapshot      52428      12532      39896      24%  /vol/vf_NAS_AURINSW_rootvol/.snapshot
+/vol/sv_test_vol/      9961472       4684    9956788       0%  /vol/sv_test_vol/
+/vol/sv_test_vol/.snapshot     524288       4304     519984       1%  /vol/sv_test_vol/.snapshot
+/vol/wd_auriwa_branch_vol06/  398458880     550788  397908092       0%  /vol/wd_auriwa_branch_vol06/
+/vol/wd_auriwa_branch_vol06/.snapshot   20971520      71228   20900292       0%  /vol/wd_auriwa_branch_vol06/.snapshot
+/vol/vol_SIF_Dev_01/  263979008      40464  263938544       0%  /vol/vol_SIF_Dev_01/
+/vol/vol_SIF_Dev_01/.snapshot   13893632      38464   13855168       0%  /vol/vol_SIF_Dev_01/.snapshot
+/vol/vol_trace/        9961472    1730424    8231048      17%  /vol/vol_trace/
+/vol/vol_trace/.snapshot     524288       4752     519536       1%  /vol/vol_trace/.snapshot
+/vol/vol_trace_test/   19922944    6507516   13415428      33%  /vol/vol_trace_test/
+/vol/vol_trace_test/.snapshot    1048576       7000    1041576       1%  /vol/vol_trace_test/.snapshot
+/vol/vol_trace_test_qld/   19922944    4221776   15701168      21%  /vol/vol_trace_test_qld/
+/vol/vol_trace_test_qld/.snapshot    1048576       2056    1046520       0%  /vol/vol_trace_test_qld/.snapshot
+/vol/Siebel_App_Datavol01/   10485760       7448   10478312       0%  /vol/Siebel_App_Datavol01/
+/vol/Siebel_App_Datavol01/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol01/.snapshot
+/vol/Siebel_App_Datavol02/   10485760       9128   10476632       0%  /vol/Siebel_App_Datavol02/
+/vol/Siebel_App_Datavol02/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol02/.snapshot
+/vol/Siebel_App_Datavol03/   10485760     178124   10307636       2%  /vol/Siebel_App_Datavol03/
+/vol/Siebel_App_Datavol03/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol03/.snapshot
+/vol/Siebel_App_Datavol04/   10485760     179116   10306644       2%  /vol/Siebel_App_Datavol04/
+/vol/Siebel_App_Datavol04/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol04/.snapshot
+/vol/vf_test_rootvol/    9961472       4724    9956748       0%  /vol/vf_test_rootvol/
+/vol/vf_test_rootvol/.snapshot     524288       4288     520000       1%  /vol/vf_test_rootvol/.snapshot
+/vol/TestVol/          9961472     169888    9791584       2%  /vol/TestVol/
+/vol/TestVol/.snapshot     524288       4680     519608       1%  /vol/TestVol/.snapshot
+
+
+# Sun Jun 25 00:23:39 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="9f022d38-e6ca-447e-959c-c4597f263cbb1499392185971" response_time="00:00:00:048"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062407320044}</message></status></xml>
+
+# Sun Jun 25 00:05:30 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="3e5e22cf-fcbf-40a2-804a-615958f62a6e1499392186372" response_time="00:00:00:043"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062407280010}</message></status></xml>
+
+# Sat Jun 24 00:13:33 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="af5da8ec-b8f6-4b08-b460-789f401d91c11499392186781" response_time="00:00:00:050"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062308140028, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Sat Jun 24 00:00:20 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="e6cb1ae4-06b3-406d-a1d1-45e04a41dca91499392187195" response_time="00:00:00:045"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062307460044, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Fri Jun 23 00:01:11 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="d04ce63d-9a16-49d6-b616-c30a05e2bb9a1499392187629" response_time="00:00:00:043"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062208010088}</message></status></xml>
+
+# Fri Jun 23 00:13:25 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="419a1165-8082-4fc5-95fd-71dc68c2bc201499392188119" response_time="00:00:00:117"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062207410166}</message></status></xml>
+
+# Thu Jun 22 00:33:18 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="c331c2cf-30f9-45f7-bd1f-06a87744c5a61499392188599" response_time="00:00:00:050"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062108090087}</message></status></xml>
+
+# Thu Jun 22 00:00:31 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="424fd739-ca08-41b8-a693-f099ee26ba9a1499392189146" response_time="00:00:00:067"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062107050034, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Wed Jun 21 00:33:10 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="9a139c84-2ada-4a8b-9736-f572d34b5bd11499392189860" response_time="00:00:00:052"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017062008170097}</message></status></xml>
+
+# Wed Jun 21 00:00:19 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="fe6c9368-a2d6-4bfb-b891-7cecadb1a7521499392190273" response_time="00:00:00:053"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062007490050, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Tue Jun 20 00:13:02 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="e3cdc4c5-7d4d-4c8f-8ab0-a83ec1333d471499392190689" response_time="00:00:00:050"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061907250009, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Tue Jun 20 00:00:22 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="c2829c50-4ad3-48a9-8095-3b91fd8bbbaf1499392191108" response_time="00:00:00:048"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061907120083}</message></status></xml>
+
+# Mon Jun 19 00:32:55 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="de3d3cb4-e403-4e1c-8ae2-58a7980d169a1499392191511" response_time="00:00:00:058"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061807530011, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Mon Jun 19 00:00:26 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="c9e9931d-d1c5-41b7-8535-90852a59967d1499392191949" response_time="00:00:00:039"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061807200073, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Sun Jun 18 00:22:49 2017 HA Group Notification (WEEKLY_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+Filesystem              kbytes       used      avail capacity  Mounted on
+/vol/vol0/           274596860    9457848  265139012       3%  /vol/vol0/
+/vol/vol0/.snapshot   14452464    2396276   12056188      17%  /vol/vol0/.snapshot
+/vol/vf_NAS_AURDIVIC_rootvol/    1992296      13400    1978896       1%  /vol/vf_NAS_AURDIVIC_rootvol/
+/vol/vf_NAS_AURDIVIC_rootvol/.snapshot     104856       6568      98288       6%  /vol/vf_NAS_AURDIVIC_rootvol/.snapshot
+/vol/wd_aurdivic_hobo_vol01/ 2040109468    2405668 2037703800       0%  /vol/wd_aurdivic_hobo_vol01/
+/vol/wd_aurdivic_hobo_vol01/.snapshot  107374180      21116  107353064       0%  /vol/wd_aurdivic_hobo_vol01/.snapshot
+/vol/wd_aurdivic_branch_vol01/ 2040109468     110912 2039998556       0%  /vol/wd_aurdivic_branch_vol01/
+/vol/wd_aurdivic_branch_vol01/.snapshot  107374180      21056  107353124       0%  /vol/wd_aurdivic_branch_vol01/.snapshot
+/vol/vf_NAS_AURDI02_rootvol/    1992296      15636    1976660       1%  /vol/vf_NAS_AURDI02_rootvol/
+/vol/vf_NAS_AURDI02_rootvol/.snapshot     104856       6000      98856       6%  /vol/vf_NAS_AURDI02_rootvol/.snapshot
+/vol/A3DOCKD0052_USER/    3735552      13520    3722032       0%  /vol/A3DOCKD0052_USER/
+/vol/A3DOCKD0052_USER/.snapshot     196608       1536     195072       1%  /vol/A3DOCKD0052_USER/.snapshot
+/vol/A3DOCKD0052_PROFILE/    3735552      36696    3698856       1%  /vol/A3DOCKD0052_PROFILE/
+/vol/A3DOCKD0052_PROFILE/.snapshot     196608       1480     195128       1%  /vol/A3DOCKD0052_PROFILE/.snapshot
+/vol/A3DOCKD0052_SHARED/  547880960   89636792  458244168      16%  /vol/A3DOCKD0052_SHARED/
+/vol/A3DOCKD0052_SHARED/.snapshot   28835840      22108   28813732       0%  /vol/A3DOCKD0052_SHARED/.snapshot
+/vol/vf_NAS_AURINT_rootvol/    1992296       1924    1990372       0%  /vol/vf_NAS_AURINT_rootvol/
+/vol/vf_NAS_AURINT_rootvol/.snapshot     104856      10552      94304      10%  /vol/vf_NAS_AURINT_rootvol/.snapshot
+/vol/vf_NAS_AURIACT_rootvol/    1992296       1928    1990368       0%  /vol/vf_NAS_AURIACT_rootvol/
+/vol/vf_NAS_AURIACT_rootvol/.snapshot     104856       9880      94976       9%  /vol/vf_NAS_AURIACT_rootvol/.snapshot
+/vol/vf_NAS_AURITAS_rootvol/    1992296       1916    1990380       0%  /vol/vf_NAS_AURITAS_rootvol/
+/vol/vf_NAS_AURITAS_rootvol/.snapshot     104856      10328      94528      10%  /vol/vf_NAS_AURITAS_rootvol/.snapshot
+/vol/wd_auriact_branch_vol01/  846725120  545292420  301432700      64%  /vol/wd_auriact_branch_vol01/
+/vol/wd_auriact_branch_vol01/.snapshot   44564480  100066288          0     225%  /vol/wd_auriact_branch_vol01/.snapshot
+/vol/wd_auritas_branch_vol01/  527958016  358509128  169448888      68%  /vol/wd_auritas_branch_vol01/
+/vol/wd_auritas_branch_vol01/.snapshot   27787264  108781484          0     391%  /vol/wd_auritas_branch_vol01/.snapshot
+/vol/wd_aurint_branch_vol01/  498073600   86639056  411434544      17%  /vol/wd_aurint_branch_vol01/
+/vol/wd_aurint_branch_vol01/.snapshot   26214400   34070524          0     130%  /vol/wd_aurint_branch_vol01/.snapshot
+/vol/vf_NAS_AURIQLD_rootvol/    1992296       2032    1990264       0%  /vol/vf_NAS_AURIQLD_rootvol/
+/vol/vf_NAS_AURIQLD_rootvol/.snapshot     104856      12488      92368      12%  /vol/vf_NAS_AURIQLD_rootvol/.snapshot
+/vol/wd_auriqld_hobo_vol01/ 4731699200  772319708 3959379492      16%  /vol/wd_auriqld_hobo_vol01/
+/vol/wd_auriqld_hobo_vol01/.snapshot  249036800  176431768   72605032      71%  /vol/wd_auriqld_hobo_vol01/.snapshot
+/vol/wd_auriqld_branch_vol01/ 2490368000 1682700404  807667596      68%  /vol/wd_auriqld_branch_vol01/
+/vol/wd_auriqld_branch_vol01/.snapshot  131072000  340305228          0     260%  /vol/wd_auriqld_branch_vol01/.snapshot
+/vol/wd_auriqld_branch_vol02/ 1992294400 1137714820  854579580      57%  /vol/wd_auriqld_branch_vol02/
+/vol/wd_auriqld_branch_vol02/.snapshot  104857600  170142688          0     162%  /vol/wd_auriqld_branch_vol02/.snapshot
+/vol/wd_auriqld_branch_vol03/  996147200  567277288  428869912      57%  /vol/wd_auriqld_branch_vol03/
+/vol/wd_auriqld_branch_vol03/.snapshot   52428800  127483616          0     243%  /vol/wd_auriqld_branch_vol03/.snapshot
+/vol/wd_auriqld_branch_vol04/  896532480  530556164  365976316      59%  /vol/wd_auriqld_branch_vol04/
+/vol/wd_auriqld_branch_vol04/.snapshot   47185920  122493400          0     260%  /vol/wd_auriqld_branch_vol04/.snapshot
+/vol/wd_auriqld_branch_vol05/ 1524105216  731818372  792286844      48%  /vol/wd_auriqld_branch_vol05/
+/vol/wd_auriqld_branch_vol05/.snapshot   80216064  145312128          0     181%  /vol/wd_auriqld_branch_vol05/.snapshot
+/vol/wd_auriqld_branch_vol06/  796917760  489271244  307646516      61%  /vol/wd_auriqld_branch_vol06/
+/vol/wd_auriqld_branch_vol06/.snapshot   41943040  102810876          0     245%  /vol/wd_auriqld_branch_vol06/.snapshot
+/vol/wd_auriqld_branch_vol07/  717225984  359020892  358205092      50%  /vol/wd_auriqld_branch_vol07/
+/vol/wd_auriqld_branch_vol07/.snapshot   37748736   92618268          0     245%  /vol/wd_auriqld_branch_vol07/.snapshot
+/vol/wd_auriqld_branch_vol08/  498073600  187458020  310615580      38%  /vol/wd_auriqld_branch_vol08/
+/vol/wd_auriqld_branch_vol08/.snapshot   26214400   70484332          0     269%  /vol/wd_auriqld_branch_vol08/.snapshot
+/vol/wd_auriqld_branch_vol09/ 1245184000  742023132  503160868      60%  /vol/wd_auriqld_branch_vol09/
+/vol/wd_auriqld_branch_vol09/.snapshot   65536000  184363620          0     281%  /vol/wd_auriqld_branch_vol09/.snapshot
+/vol/vf_NAS_AURIWA_rootvol/    1992296       1976    1990320       0%  /vol/vf_NAS_AURIWA_rootvol/
+/vol/vf_NAS_AURIWA_rootvol/.snapshot     104856      12644      92212      12%  /vol/vf_NAS_AURIWA_rootvol/.snapshot
+/vol/wd_auriwa_branch_vol01/ 1992294400 1260991512  731302888      63%  /vol/wd_auriwa_branch_vol01/
+/vol/wd_auriwa_branch_vol01/.snapshot  104857600  182959488          0     174%  /vol/wd_auriwa_branch_vol01/.snapshot
+/vol/wd_auriwa_branch_vol02/  567803904  265168608  302635296      47%  /vol/wd_auriwa_branch_vol02/
+/vol/wd_auriwa_branch_vol02/.snapshot   29884416   76339548          0     255%  /vol/wd_auriwa_branch_vol02/.snapshot
+/vol/wd_auriwa_branch_vol03/  498073600  238482084  259591516      48%  /vol/wd_auriwa_branch_vol03/
+/vol/wd_auriwa_branch_vol03/.snapshot   26214400   63081780          0     241%  /vol/wd_auriwa_branch_vol03/.snapshot
+/vol/wd_auriwa_branch_vol04/  498073600  317000276  181073324      64%  /vol/wd_auriwa_branch_vol04/
+/vol/wd_auriwa_branch_vol04/.snapshot   26214400   55169120          0     210%  /vol/wd_auriwa_branch_vol04/.snapshot
+/vol/wd_auriwa_branch_vol05/  498073600  307403392  190670208      62%  /vol/wd_auriwa_branch_vol05/
+/vol/wd_auriwa_branch_vol05/.snapshot   26214400   43442924          0     166%  /vol/wd_auriwa_branch_vol05/.snapshot
+/vol/wd_auriwa_hobo_vol01/ 3984588800 3494413096  490175704      88%  /vol/wd_auriwa_hobo_vol01/
+/vol/wd_auriwa_hobo_vol01/.snapshot          0  339561864          0     ---%  /vol/wd_auriwa_hobo_vol01/.snapshot
+/vol/vf_NAS_AURISA_rootvol/    1992296       1952    1990344       0%  /vol/vf_NAS_AURISA_rootvol/
+/vol/vf_NAS_AURISA_rootvol/.snapshot     104856      12384      92472      12%  /vol/vf_NAS_AURISA_rootvol/.snapshot
+/vol/wd_aurisa_branch_vol01/ 1195376640  724073452  471303188      61%  /vol/wd_aurisa_branch_vol01/
+/vol/wd_aurisa_branch_vol01/.snapshot   62914560  131786816          0     209%  /vol/wd_aurisa_branch_vol01/.snapshot
+/vol/wd_aurisa_branch_vol02/  547880960  256016768  291864192      47%  /vol/wd_aurisa_branch_vol02/
+/vol/wd_aurisa_branch_vol02/.snapshot   28835840   91327776          0     317%  /vol/wd_aurisa_branch_vol02/.snapshot
+/vol/wd_aurisa_branch_vol03/ 1245184000  827131388  418052612      66%  /vol/wd_aurisa_branch_vol03/
+/vol/wd_aurisa_branch_vol03/.snapshot   65536000  168346644          0     257%  /vol/wd_aurisa_branch_vol03/.snapshot
+/vol/wd_aurisa_hobo_vol01/ 4980736000 1921756152 3058979848      39%  /vol/wd_aurisa_hobo_vol01/
+/vol/wd_aurisa_hobo_vol01/.snapshot          0  160899704          0     ---%  /vol/wd_aurisa_hobo_vol01/.snapshot
+/vol/wd_auriQLD_hobo_vol01/ 4980736000 2776280140 2204455860      56%  /vol/wd_auriQLD_hobo_vol01/
+/vol/wd_auriQLD_hobo_vol01/.snapshot  262144000  427177868          0     163%  /vol/wd_auriQLD_hobo_vol01/.snapshot
+/vol/wd_auriQLD_hobo_vol02/ 4980736000 2097815808 2882920192      42%  /vol/wd_auriQLD_hobo_vol02/
+/vol/wd_auriQLD_hobo_vol02/.snapshot  262144000  210646912   51497088      80%  /vol/wd_auriQLD_hobo_vol02/.snapshot
+/vol/wd_aurinsw_hobo_vol01/ 8451522560 6192469792 2259052768      73%  /vol/wd_aurinsw_hobo_vol01/
+/vol/wd_aurinsw_hobo_vol01/.snapshot          0  938387812          0     ---%  /vol/wd_aurinsw_hobo_vol01/.snapshot
+/vol/wd_aurinsw_hobo_vol02/ 5877268480 5121521852  755746628      87%  /vol/wd_aurinsw_hobo_vol02/
+/vol/wd_aurinsw_hobo_vol02/.snapshot  309329920  575595032          0     186%  /vol/wd_aurinsw_hobo_vol02/.snapshot
+/vol/wd_aurinsw_hobo_vol03/ 4084203520 3635973920  448229600      89%  /vol/wd_aurinsw_hobo_vol03/
+/vol/wd_aurinsw_hobo_vol03/.snapshot  214958080  280751344          0     131%  /vol/wd_aurinsw_hobo_vol03/.snapshot
+/vol/wd_aurinsw_hobo_vol04/ 8965324800 7423862108 1541462692      83%  /vol/wd_aurinsw_hobo_vol04/
+/vol/wd_aurinsw_hobo_vol04/.snapshot  471859200  980459028          0     208%  /vol/wd_aurinsw_hobo_vol04/.snapshot
+/vol/wd_aurinsw_hobo_vol05/ 4383047680 3651455348  731592332      83%  /vol/wd_aurinsw_hobo_vol05/
+/vol/wd_aurinsw_hobo_vol05/.snapshot  230686720  456504168          0     198%  /vol/wd_aurinsw_hobo_vol05/.snapshot
+/vol/wd_aurinsw_hobo_vol06/ 6202327040 4821504076 1380822964      78%  /vol/wd_aurinsw_hobo_vol06/
+/vol/wd_aurinsw_hobo_vol06/.snapshot  613416960  543049272   70367688      89%  /vol/wd_aurinsw_hobo_vol06/.snapshot
+/vol/wd_aurinsw_hobo_vol07/ 7769948160 6711745580 1058202580      86%  /vol/wd_aurinsw_hobo_vol07/
+/vol/wd_aurinsw_hobo_vol07/.snapshot  408944640  422784588          0     103%  /vol/wd_aurinsw_hobo_vol07/.snapshot
+/vol/wd_auriact_branch_vol01_copy/  498073600  278019904  220053696      56%  /vol/wd_auriact_branch_vol01_copy/
+/vol/wd_auriact_branch_vol01_copy/.snapshot   26214400          0   26214400       0%  /vol/wd_auriact_branch_vol01_copy/.snapshot
+/vol/vf_NAS_NSW_HOBO_rootvol/    6973032    2914948    4058084      42%  /vol/vf_NAS_NSW_HOBO_rootvol/
+/vol/vf_NAS_NSW_HOBO_rootvol/.snapshot     367000      12536     354464       3%  /vol/vf_NAS_NSW_HOBO_rootvol/.snapshot
+/vol/vf_NAS_QLD_HOBO_rootvol/    1992296       2072    1990224       0%  /vol/vf_NAS_QLD_HOBO_rootvol/
+/vol/vf_NAS_QLD_HOBO_rootvol/.snapshot     104856       9848      95008       9%  /vol/vf_NAS_QLD_HOBO_rootvol/.snapshot
+/vol/vf_NAS_WA_HOBO_rootvol/    1992296       2064    1990232       0%  /vol/vf_NAS_WA_HOBO_rootvol/
+/vol/vf_NAS_WA_HOBO_rootvol/.snapshot     104856       8760      96096       8%  /vol/vf_NAS_WA_HOBO_rootvol/.snapshot
+/vol/vf_NAS_SA_HOBO_rootvol/    1992296       1848    1990448       0%  /vol/vf_NAS_SA_HOBO_rootvol/
+/vol/vf_NAS_SA_HOBO_rootvol/.snapshot     104856       7536      97320       7%  /vol/vf_NAS_SA_HOBO_rootvol/.snapshot
+/vol/wd_aurinsw_branch_vol01/ 4980736000 2469927920 2510808080      50%  /vol/wd_aurinsw_branch_vol01/
+/vol/wd_aurinsw_branch_vol01/.snapshot  262144000  253443704    8700296      97%  /vol/wd_aurinsw_branch_vol01/.snapshot
+/vol/wd_aurinsw_branch_vol02/ 4980736000 1672645488 3308090512      34%  /vol/wd_aurinsw_branch_vol02/
+/vol/wd_aurinsw_branch_vol02/.snapshot  262144000  340119524          0     130%  /vol/wd_aurinsw_branch_vol02/.snapshot
+/vol/wd_aurinsw_branch_vol03/ 4980736000  515613008 4465122992      10%  /vol/wd_aurinsw_branch_vol03/
+/vol/wd_aurinsw_branch_vol03/.snapshot  262144000  124085884  138058116      47%  /vol/wd_aurinsw_branch_vol03/.snapshot
+/vol/wd_aurinsw_branch_vol04/ 4980736000  168384244 4812351756       3%  /vol/wd_aurinsw_branch_vol04/
+/vol/wd_aurinsw_branch_vol04/.snapshot  262144000   57936228  204207772      22%  /vol/wd_aurinsw_branch_vol04/.snapshot
+/vol/wd_aurinsw_branch_vol05/ 4980736000  180909488 4799826512       4%  /vol/wd_aurinsw_branch_vol05/
+/vol/wd_aurinsw_branch_vol05/.snapshot  262144000   70842968  191301032      27%  /vol/wd_aurinsw_branch_vol05/.snapshot
+/vol/wd_aurinsw_branch_vol06/ 4980736000  587838096 4392897904      12%  /vol/wd_aurinsw_branch_vol06/
+/vol/wd_aurinsw_branch_vol06/.snapshot  262144000  262385032          0     100%  /vol/wd_aurinsw_branch_vol06/.snapshot
+/vol/wd_aurinsw_branch_vol07/ 4980736000  771773680 4208962320      15%  /vol/wd_aurinsw_branch_vol07/
+/vol/wd_aurinsw_branch_vol07/.snapshot  262144000  227392164   34751836      87%  /vol/wd_aurinsw_branch_vol07/.snapshot
+/vol/wd_aurinsw_branch_vol08/ 4980736000  691776048 4288959952      14%  /vol/wd_aurinsw_branch_vol08/
+/vol/wd_aurinsw_branch_vol08/.snapshot  262144000  166104112   96039888      63%  /vol/wd_aurinsw_branch_vol08/.snapshot
+/vol/wd_aurinsw_branch_vol09/ 4980736000  181294036 4799441964       4%  /vol/wd_aurinsw_branch_vol09/
+/vol/wd_aurinsw_branch_vol09/.snapshot  262144000   70562620  191581380      27%  /vol/wd_aurinsw_branch_vol09/.snapshot
+/vol/wd_aurinsw_branch_vol10/ 4980736000  630941288 4349794712      13%  /vol/wd_aurinsw_branch_vol10/
+/vol/wd_aurinsw_branch_vol10/.snapshot  262144000  108029900  154114100      41%  /vol/wd_aurinsw_branch_vol10/.snapshot
+/vol/wd_aurinsw_branch_vol11/ 4980736000  110302520 4870433480       2%  /vol/wd_aurinsw_branch_vol11/
+/vol/wd_aurinsw_branch_vol11/.snapshot  262144000   67980640  194163360      26%  /vol/wd_aurinsw_branch_vol11/.snapshot
+/vol/wd_aurinsw_branch_vol12/ 4980736000  338722484 4642013516       7%  /vol/wd_aurinsw_branch_vol12/
+/vol/wd_aurinsw_branch_vol12/.snapshot  262144000  166998844   95145156      64%  /vol/wd_aurinsw_branch_vol12/.snapshot
+/vol/wd_aurinsw_branch_vol13/ 4980736000  152623036 4828112964       3%  /vol/wd_aurinsw_branch_vol13/
+/vol/wd_aurinsw_branch_vol13/.snapshot  262144000   30666084  231477916      12%  /vol/wd_aurinsw_branch_vol13/.snapshot
+/vol/wd_aurinsw_branch_vol14/ 4980736000  501686096 4479049904      10%  /vol/wd_aurinsw_branch_vol14/
+/vol/wd_aurinsw_branch_vol14/.snapshot  262144000  116941360  145202640      45%  /vol/wd_aurinsw_branch_vol14/.snapshot
+/vol/vf_NAS_AURINSW_rootvol/     996148       1496     994652       0%  /vol/vf_NAS_AURINSW_rootvol/
+/vol/vf_NAS_AURINSW_rootvol/.snapshot      52428      12536      39892      24%  /vol/vf_NAS_AURINSW_rootvol/.snapshot
+/vol/sv_test_vol/      9961472       4684    9956788       0%  /vol/sv_test_vol/
+/vol/sv_test_vol/.snapshot     524288       4744     519544       1%  /vol/sv_test_vol/.snapshot
+/vol/wd_auriwa_branch_vol06/  398458880     550240  397908640       0%  /vol/wd_auriwa_branch_vol06/
+/vol/wd_auriwa_branch_vol06/.snapshot   20971520      79148   20892372       0%  /vol/wd_auriwa_branch_vol06/.snapshot
+/vol/vol_SIF_Dev_01/  263979008      40488  263938520       0%  /vol/vol_SIF_Dev_01/
+/vol/vol_SIF_Dev_01/.snapshot   13893632      44896   13848736       0%  /vol/vol_SIF_Dev_01/.snapshot
+/vol/prd_itf_mp_vol01/    5033168       3400    5029768       0%  /vol/prd_itf_mp_vol01/
+/vol/prd_itf_mp_vol01/.snapshot    1258288       1180    1257108       0%  /vol/prd_itf_mp_vol01/.snapshot
+/vol/vol_trace/        9961472    1730424    8231048      17%  /vol/vol_trace/
+/vol/vol_trace/.snapshot     524288       4308     519980       1%  /vol/vol_trace/.snapshot
+/vol/vol_trace_test/   19922944    6507516   13415428      33%  /vol/vol_trace_test/
+/vol/vol_trace_test/.snapshot    1048576       7788    1040788       1%  /vol/vol_trace_test/.snapshot
+/vol/vol_trace_test_qld/   19922944    4221776   15701168      21%  /vol/vol_trace_test_qld/
+/vol/vol_trace_test_qld/.snapshot    1048576       1060    1047516       0%  /vol/vol_trace_test_qld/.snapshot
+/vol/Siebel_App_Datavol01/   10485760       7448   10478312       0%  /vol/Siebel_App_Datavol01/
+/vol/Siebel_App_Datavol01/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol01/.snapshot
+/vol/Siebel_App_Datavol02/   10485760       9128   10476632       0%  /vol/Siebel_App_Datavol02/
+/vol/Siebel_App_Datavol02/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol02/.snapshot
+/vol/Siebel_App_Datavol03/   10485760     178124   10307636       2%  /vol/Siebel_App_Datavol03/
+/vol/Siebel_App_Datavol03/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol03/.snapshot
+/vol/Siebel_App_Datavol04/   10485760     179116   10306644       2%  /vol/Siebel_App_Datavol04/
+/vol/Siebel_App_Datavol04/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol04/.snapshot
+/vol/vf_test_rootvol/    9961472       4672    9956800       0%  /vol/vf_test_rootvol/
+/vol/vf_test_rootvol/.snapshot     524288       4300     519988       1%  /vol/vf_test_rootvol/.snapshot
+/vol/TestVol/          9961472     169828    9791644       2%  /vol/TestVol/
+/vol/TestVol/.snapshot     524288       4296     519992       1%  /vol/TestVol/.snapshot
+
+
+# Sun Jun 18 00:47:49 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="e795fe2f-cb19-4991-abc5-10af6a818ac71499392193152" response_time="00:00:00:057"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061708160083, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Sun Jun 18 00:00:12 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="442167e4-22b8-4b94-a1ae-831a6cc2e6211499392193578" response_time="00:00:00:048"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061707520002}</message></status></xml>
+
+# Sat Jun 17 00:02:41 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="8bf5be47-d434-47f2-bdc3-8815278ef84d1499392193981" response_time="00:00:00:044"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061607470014}</message></status></xml>
+
+# Sat Jun 17 00:00:39 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="97ba0b5b-a9b2-469b-a3f7-e4cbb49bc6e41499392194384" response_time="00:00:00:048"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061607470012}</message></status></xml>
+
+# Fri Jun 16 00:32:33 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="ee5da135-21bd-40ab-9053-ba6b5b9b5b321499392195066" response_time="00:00:00:053"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061507520171, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Fri Jun 16 00:00:28 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="fe5576cc-1413-47d0-bb62-f53bd43021c51499392195475" response_time="00:00:00:053"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061507290016, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Thu Jun 15 00:22:25 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="a2def0f1-140d-417a-bab2-588dedb5bbfa1499392195904" response_time="00:00:00:056"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061408060380, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Thu Jun 15 00:01:07 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="933238d7-18b0-45d3-a383-022567bd72861499392196329" response_time="00:00:00:055"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061407340077}</message></status></xml>
+
+# Wed Jun 14 00:22:18 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="a39dcfbc-7187-481e-904c-6e10ab3b68fb1499392196819" response_time="00:00:00:051"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061308220089}</message></status></xml>
+
+# Wed Jun 14 00:00:13 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="b6a5b2cf-9467-4671-8e6c-de4549797e091499392197466" response_time="00:00:00:045"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061307080068, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Tue Jun 13 00:22:11 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="5add674a-797c-44c7-a754-401d4d68cece1499392197959" response_time="00:00:00:052"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061208100047, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Tue Jun 13 00:00:21 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="09bb2f74-eaae-4bab-93d4-72e7950c5d081499392198385" response_time="00:00:00:049"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061207080192, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Mon Jun 12 00:22:03 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="19327113-d5eb-44db-9457-91600adf893d1499392199111" response_time="00:00:00:047"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061108180055}</message></status></xml>
+
+# Mon Jun 12 00:22:03 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="b07c9a33-e2c8-4688-8a4f-29de5072417e1499392199768" response_time="00:00:00:060"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061108180055}</message></status></xml>
+
+# Mon Jun 12 00:00:08 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="a951d589-01a0-4da2-acc8-5b83aaf8833b1499392200208" response_time="00:00:00:053"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061107340051, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Mon Jun 12 00:00:08 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="16ab05aa-7b9e-4e58-80b3-885c21ed6d101499392200915" response_time="00:00:00:051"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061107340051, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Sun Jun 11 00:22:06 2017 HA Group Notification (WEEKLY_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+Filesystem              kbytes       used      avail capacity  Mounted on
+/vol/vol0/           274596860    9455112  265141748       3%  /vol/vol0/
+/vol/vol0/.snapshot   14452464    2470836   11981628      17%  /vol/vol0/.snapshot
+/vol/vf_NAS_AURDIVIC_rootvol/    1992296      13404    1978892       1%  /vol/vf_NAS_AURDIVIC_rootvol/
+/vol/vf_NAS_AURDIVIC_rootvol/.snapshot     104856       6412      98444       6%  /vol/vf_NAS_AURDIVIC_rootvol/.snapshot
+/vol/wd_aurdivic_hobo_vol01/ 2040109468    2405696 2037703772       0%  /vol/wd_aurdivic_hobo_vol01/
+/vol/wd_aurdivic_hobo_vol01/.snapshot  107374180      21800  107352380       0%  /vol/wd_aurdivic_hobo_vol01/.snapshot
+/vol/wd_aurdivic_branch_vol01/ 2040109468     110940 2039998528       0%  /vol/wd_aurdivic_branch_vol01/
+/vol/wd_aurdivic_branch_vol01/.snapshot  107374180      21124  107353056       0%  /vol/wd_aurdivic_branch_vol01/.snapshot
+/vol/vf_NAS_AURDI02_rootvol/    1992296      15640    1976656       1%  /vol/vf_NAS_AURDI02_rootvol/
+/vol/vf_NAS_AURDI02_rootvol/.snapshot     104856       5620      99236       5%  /vol/vf_NAS_AURDI02_rootvol/.snapshot
+/vol/A3DOCKD0052_USER/    3735552      13520    3722032       0%  /vol/A3DOCKD0052_USER/
+/vol/A3DOCKD0052_USER/.snapshot     196608       1296     195312       1%  /vol/A3DOCKD0052_USER/.snapshot
+/vol/A3DOCKD0052_PROFILE/    3735552      36696    3698856       1%  /vol/A3DOCKD0052_PROFILE/
+/vol/A3DOCKD0052_PROFILE/.snapshot     196608       1240     195368       1%  /vol/A3DOCKD0052_PROFILE/.snapshot
+/vol/A3DOCKD0052_SHARED/  547880960   89636792  458244168      16%  /vol/A3DOCKD0052_SHARED/
+/vol/A3DOCKD0052_SHARED/.snapshot   28835840      25896   28809944       0%  /vol/A3DOCKD0052_SHARED/.snapshot
+/vol/vf_NAS_AURINT_rootvol/    1992296       1920    1990376       0%  /vol/vf_NAS_AURINT_rootvol/
+/vol/vf_NAS_AURINT_rootvol/.snapshot     104856      10216      94640      10%  /vol/vf_NAS_AURINT_rootvol/.snapshot
+/vol/vf_NAS_AURIACT_rootvol/    1992296       1928    1990368       0%  /vol/vf_NAS_AURIACT_rootvol/
+/vol/vf_NAS_AURIACT_rootvol/.snapshot     104856       9800      95056       9%  /vol/vf_NAS_AURIACT_rootvol/.snapshot
+/vol/vf_NAS_AURITAS_rootvol/    1992296       1916    1990380       0%  /vol/vf_NAS_AURITAS_rootvol/
+/vol/vf_NAS_AURITAS_rootvol/.snapshot     104856      10012      94844      10%  /vol/vf_NAS_AURITAS_rootvol/.snapshot
+/vol/wd_auriact_branch_vol01/  846725120  542813704  303911416      64%  /vol/wd_auriact_branch_vol01/
+/vol/wd_auriact_branch_vol01/.snapshot   44564480   97990624          0     220%  /vol/wd_auriact_branch_vol01/.snapshot
+/vol/wd_auritas_branch_vol01/  527958016  356852032  171105984      68%  /vol/wd_auritas_branch_vol01/
+/vol/wd_auritas_branch_vol01/.snapshot   27787264  107121288          0     386%  /vol/wd_auritas_branch_vol01/.snapshot
+/vol/wd_aurint_branch_vol01/  498073600   85579044  412494556      17%  /vol/wd_aurint_branch_vol01/
+/vol/wd_aurint_branch_vol01/.snapshot   26214400   33102708          0     126%  /vol/wd_aurint_branch_vol01/.snapshot
+/vol/vf_NAS_AURIQLD_rootvol/    1992296       2028    1990268       0%  /vol/vf_NAS_AURIQLD_rootvol/
+/vol/vf_NAS_AURIQLD_rootvol/.snapshot     104856      12252      92604      12%  /vol/vf_NAS_AURIQLD_rootvol/.snapshot
+/vol/wd_auriqld_hobo_vol01/ 4731699200  772320016 3959379184      16%  /vol/wd_auriqld_hobo_vol01/
+/vol/wd_auriqld_hobo_vol01/.snapshot  249036800  176316876   72719924      71%  /vol/wd_auriqld_hobo_vol01/.snapshot
+/vol/wd_auriqld_branch_vol01/ 2490368000 1675507028  814860972      67%  /vol/wd_auriqld_branch_vol01/
+/vol/wd_auriqld_branch_vol01/.snapshot  131072000  338138560          0     258%  /vol/wd_auriqld_branch_vol01/.snapshot
+/vol/wd_auriqld_branch_vol02/ 1992294400 1136420912  855873488      57%  /vol/wd_auriqld_branch_vol02/
+/vol/wd_auriqld_branch_vol02/.snapshot  104857600  170738624          0     163%  /vol/wd_auriqld_branch_vol02/.snapshot
+/vol/wd_auriqld_branch_vol03/  996147200  566287704  429859496      57%  /vol/wd_auriqld_branch_vol03/
+/vol/wd_auriqld_branch_vol03/.snapshot   52428800  125693344          0     240%  /vol/wd_auriqld_branch_vol03/.snapshot
+/vol/wd_auriqld_branch_vol04/  896532480  526898504  369633976      59%  /vol/wd_auriqld_branch_vol04/
+/vol/wd_auriqld_branch_vol04/.snapshot   47185920  120705640          0     256%  /vol/wd_auriqld_branch_vol04/.snapshot
+/vol/wd_auriqld_branch_vol05/ 1524105216  680952396  843152820      45%  /vol/wd_auriqld_branch_vol05/
+/vol/wd_auriqld_branch_vol05/.snapshot   80216064  146150704          0     182%  /vol/wd_auriqld_branch_vol05/.snapshot
+/vol/wd_auriqld_branch_vol06/  796917760  488607560  308310200      61%  /vol/wd_auriqld_branch_vol06/
+/vol/wd_auriqld_branch_vol06/.snapshot   41943040  102841316          0     245%  /vol/wd_auriqld_branch_vol06/.snapshot
+/vol/wd_auriqld_branch_vol07/  717225984  358311988  358913996      50%  /vol/wd_auriqld_branch_vol07/
+/vol/wd_auriqld_branch_vol07/.snapshot   37748736   92695900          0     246%  /vol/wd_auriqld_branch_vol07/.snapshot
+/vol/wd_auriqld_branch_vol08/  498073600  183175636  314897964      37%  /vol/wd_auriqld_branch_vol08/
+/vol/wd_auriqld_branch_vol08/.snapshot   26214400   65998828          0     252%  /vol/wd_auriqld_branch_vol08/.snapshot
+/vol/wd_auriqld_branch_vol09/ 1245184000  742239144  502944856      60%  /vol/wd_auriqld_branch_vol09/
+/vol/wd_auriqld_branch_vol09/.snapshot   65536000  185616592          0     283%  /vol/wd_auriqld_branch_vol09/.snapshot
+/vol/vf_NAS_AURIWA_rootvol/    1992296       1980    1990316       0%  /vol/vf_NAS_AURIWA_rootvol/
+/vol/vf_NAS_AURIWA_rootvol/.snapshot     104856      11792      93064      11%  /vol/vf_NAS_AURIWA_rootvol/.snapshot
+/vol/wd_auriwa_branch_vol01/ 1992294400 1261482084  730812316      63%  /vol/wd_auriwa_branch_vol01/
+/vol/wd_auriwa_branch_vol01/.snapshot  104857600  185316276          0     177%  /vol/wd_auriwa_branch_vol01/.snapshot
+/vol/wd_auriwa_branch_vol02/  567803904  266370616  301433288      47%  /vol/wd_auriwa_branch_vol02/
+/vol/wd_auriwa_branch_vol02/.snapshot   29884416   78040924          0     261%  /vol/wd_auriwa_branch_vol02/.snapshot
+/vol/wd_auriwa_branch_vol03/  498073600  238981796  259091804      48%  /vol/wd_auriwa_branch_vol03/
+/vol/wd_auriwa_branch_vol03/.snapshot   26214400   63808136          0     243%  /vol/wd_auriwa_branch_vol03/.snapshot
+/vol/wd_auriwa_branch_vol04/  498073600  316462660  181610940      64%  /vol/wd_auriwa_branch_vol04/
+/vol/wd_auriwa_branch_vol04/.snapshot   26214400   55337184          0     211%  /vol/wd_auriwa_branch_vol04/.snapshot
+/vol/wd_auriwa_branch_vol05/  498073600  306959612  191113988      62%  /vol/wd_auriwa_branch_vol05/
+/vol/wd_auriwa_branch_vol05/.snapshot   26214400   43854016          0     167%  /vol/wd_auriwa_branch_vol05/.snapshot
+/vol/wd_auriwa_hobo_vol01/ 3984588800 3488733644  495855156      88%  /vol/wd_auriwa_hobo_vol01/
+/vol/wd_auriwa_hobo_vol01/.snapshot          0  339168148          0     ---%  /vol/wd_auriwa_hobo_vol01/.snapshot
+/vol/vf_NAS_AURISA_rootvol/    1992296       1944    1990352       0%  /vol/vf_NAS_AURISA_rootvol/
+/vol/vf_NAS_AURISA_rootvol/.snapshot     104856      11328      93528      11%  /vol/vf_NAS_AURISA_rootvol/.snapshot
+/vol/wd_aurisa_branch_vol01/ 1195376640  718132316  477244324      60%  /vol/wd_aurisa_branch_vol01/
+/vol/wd_aurisa_branch_vol01/.snapshot   62914560  126621388          0     201%  /vol/wd_aurisa_branch_vol01/.snapshot
+/vol/wd_aurisa_branch_vol02/  547880960  255362908  292518052      47%  /vol/wd_aurisa_branch_vol02/
+/vol/wd_aurisa_branch_vol02/.snapshot   28835840   90968036          0     315%  /vol/wd_aurisa_branch_vol02/.snapshot
+/vol/wd_aurisa_branch_vol03/ 1245184000  821133392  424050608      66%  /vol/wd_aurisa_branch_vol03/
+/vol/wd_aurisa_branch_vol03/.snapshot   65536000  163139276          0     249%  /vol/wd_aurisa_branch_vol03/.snapshot
+/vol/wd_aurisa_hobo_vol01/ 4980736000 1914479912 3066256088      38%  /vol/wd_aurisa_hobo_vol01/
+/vol/wd_aurisa_hobo_vol01/.snapshot          0  158859524          0     ---%  /vol/wd_aurisa_hobo_vol01/.snapshot
+/vol/wd_auriQLD_hobo_vol01/ 4980736000 2778454532 2202281468      56%  /vol/wd_auriQLD_hobo_vol01/
+/vol/wd_auriQLD_hobo_vol01/.snapshot  262144000  435977672          0     166%  /vol/wd_auriQLD_hobo_vol01/.snapshot
+/vol/wd_auriQLD_hobo_vol02/ 4980736000 2079328672 2901407328      42%  /vol/wd_auriQLD_hobo_vol02/
+/vol/wd_auriQLD_hobo_vol02/.snapshot  262144000  209162524   52981476      80%  /vol/wd_auriQLD_hobo_vol02/.snapshot
+/vol/wd_aurinsw_hobo_vol01/ 8451522560 6170155928 2281366632      73%  /vol/wd_aurinsw_hobo_vol01/
+/vol/wd_aurinsw_hobo_vol01/.snapshot          0  928099040          0     ---%  /vol/wd_aurinsw_hobo_vol01/.snapshot
+/vol/wd_aurinsw_hobo_vol02/ 5877268480 5109647928  767620552      87%  /vol/wd_aurinsw_hobo_vol02/
+/vol/wd_aurinsw_hobo_vol02/.snapshot  309329920  573277088          0     185%  /vol/wd_aurinsw_hobo_vol02/.snapshot
+/vol/wd_aurinsw_hobo_vol03/ 4084203520 3613366912  470836608      88%  /vol/wd_aurinsw_hobo_vol03/
+/vol/wd_aurinsw_hobo_vol03/.snapshot  214958080  274033580          0     127%  /vol/wd_aurinsw_hobo_vol03/.snapshot
+/vol/wd_aurinsw_hobo_vol04/ 8965324800 7411729568 1553595232      83%  /vol/wd_aurinsw_hobo_vol04/
+/vol/wd_aurinsw_hobo_vol04/.snapshot  471859200  983187412          0     208%  /vol/wd_aurinsw_hobo_vol04/.snapshot
+/vol/wd_aurinsw_hobo_vol05/ 4084203520 3644803372  439400148      89%  /vol/wd_aurinsw_hobo_vol05/
+/vol/wd_aurinsw_hobo_vol05/.snapshot  214958080  451031916          0     210%  /vol/wd_aurinsw_hobo_vol05/.snapshot
+/vol/wd_aurinsw_hobo_vol06/ 6202327040 4813235388 1389091652      78%  /vol/wd_aurinsw_hobo_vol06/
+/vol/wd_aurinsw_hobo_vol06/.snapshot  613416960  536552684   76864276      87%  /vol/wd_aurinsw_hobo_vol06/.snapshot
+/vol/wd_aurinsw_hobo_vol07/ 7769948160 6707935512 1062012648      86%  /vol/wd_aurinsw_hobo_vol07/
+/vol/wd_aurinsw_hobo_vol07/.snapshot  408944640  424153144          0     104%  /vol/wd_aurinsw_hobo_vol07/.snapshot
+/vol/wd_auriact_branch_vol01_copy/  498073600  278019916  220053684      56%  /vol/wd_auriact_branch_vol01_copy/
+/vol/wd_auriact_branch_vol01_copy/.snapshot   26214400          0   26214400       0%  /vol/wd_auriact_branch_vol01_copy/.snapshot
+/vol/vf_NAS_NSW_HOBO_rootvol/    6973032    2914952    4058080      42%  /vol/vf_NAS_NSW_HOBO_rootvol/
+/vol/vf_NAS_NSW_HOBO_rootvol/.snapshot     367000      11144     355856       3%  /vol/vf_NAS_NSW_HOBO_rootvol/.snapshot
+/vol/vf_NAS_QLD_HOBO_rootvol/    1992296       2084    1990212       0%  /vol/vf_NAS_QLD_HOBO_rootvol/
+/vol/vf_NAS_QLD_HOBO_rootvol/.snapshot     104856       8604      96252       8%  /vol/vf_NAS_QLD_HOBO_rootvol/.snapshot
+/vol/vf_NAS_WA_HOBO_rootvol/    1992296       2072    1990224       0%  /vol/vf_NAS_WA_HOBO_rootvol/
+/vol/vf_NAS_WA_HOBO_rootvol/.snapshot     104856       8448      96408       8%  /vol/vf_NAS_WA_HOBO_rootvol/.snapshot
+/vol/vf_NAS_SA_HOBO_rootvol/    1992296       1844    1990452       0%  /vol/vf_NAS_SA_HOBO_rootvol/
+/vol/vf_NAS_SA_HOBO_rootvol/.snapshot     104856       7328      97528       7%  /vol/vf_NAS_SA_HOBO_rootvol/.snapshot
+/vol/wd_aurinsw_branch_vol01/ 4980736000 2466308396 2514427604      50%  /vol/wd_aurinsw_branch_vol01/
+/vol/wd_aurinsw_branch_vol01/.snapshot  262144000  253061748    9082252      97%  /vol/wd_aurinsw_branch_vol01/.snapshot
+/vol/wd_aurinsw_branch_vol02/ 4980736000 1669691088 3311044912      34%  /vol/wd_aurinsw_branch_vol02/
+/vol/wd_aurinsw_branch_vol02/.snapshot  262144000  340722756          0     130%  /vol/wd_aurinsw_branch_vol02/.snapshot
+/vol/wd_aurinsw_branch_vol03/ 4980736000  514827048 4465908952      10%  /vol/wd_aurinsw_branch_vol03/
+/vol/wd_aurinsw_branch_vol03/.snapshot  262144000  123647572  138496428      47%  /vol/wd_aurinsw_branch_vol03/.snapshot
+/vol/wd_aurinsw_branch_vol04/ 4980736000  168272844 4812463156       3%  /vol/wd_aurinsw_branch_vol04/
+/vol/wd_aurinsw_branch_vol04/.snapshot  262144000   57990872  204153128      22%  /vol/wd_aurinsw_branch_vol04/.snapshot
+/vol/wd_aurinsw_branch_vol05/ 4980736000  180614824 4800121176       4%  /vol/wd_aurinsw_branch_vol05/
+/vol/wd_aurinsw_branch_vol05/.snapshot  262144000   70692640  191451360      27%  /vol/wd_aurinsw_branch_vol05/.snapshot
+/vol/wd_aurinsw_branch_vol06/ 4980736000  587132764 4393603236      12%  /vol/wd_aurinsw_branch_vol06/
+/vol/wd_aurinsw_branch_vol06/.snapshot  262144000  262413172          0     100%  /vol/wd_aurinsw_branch_vol06/.snapshot
+/vol/wd_aurinsw_branch_vol07/ 4980736000  770929748 4209806252      15%  /vol/wd_aurinsw_branch_vol07/
+/vol/wd_aurinsw_branch_vol07/.snapshot  262144000  227735576   34408424      87%  /vol/wd_aurinsw_branch_vol07/.snapshot
+/vol/wd_aurinsw_branch_vol08/ 4980736000  691061784 4289674216      14%  /vol/wd_aurinsw_branch_vol08/
+/vol/wd_aurinsw_branch_vol08/.snapshot  262144000  166317112   95826888      63%  /vol/wd_aurinsw_branch_vol08/.snapshot
+/vol/wd_aurinsw_branch_vol09/ 4980736000  181066228 4799669772       4%  /vol/wd_aurinsw_branch_vol09/
+/vol/wd_aurinsw_branch_vol09/.snapshot  262144000   70355140  191788860      27%  /vol/wd_aurinsw_branch_vol09/.snapshot
+/vol/wd_aurinsw_branch_vol10/ 4980736000  630156240 4350579760      13%  /vol/wd_aurinsw_branch_vol10/
+/vol/wd_aurinsw_branch_vol10/.snapshot  262144000  108280040  153863960      41%  /vol/wd_aurinsw_branch_vol10/.snapshot
+/vol/wd_aurinsw_branch_vol11/ 4980736000  110358328 4870377672       2%  /vol/wd_aurinsw_branch_vol11/
+/vol/wd_aurinsw_branch_vol11/.snapshot  262144000   63684104  198459896      24%  /vol/wd_aurinsw_branch_vol11/.snapshot
+/vol/wd_aurinsw_branch_vol12/ 4980736000  338180540 4642555460       7%  /vol/wd_aurinsw_branch_vol12/
+/vol/wd_aurinsw_branch_vol12/.snapshot  262144000  166670936   95473064      64%  /vol/wd_aurinsw_branch_vol12/.snapshot
+/vol/wd_aurinsw_branch_vol13/ 4980736000  152297472 4828438528       3%  /vol/wd_aurinsw_branch_vol13/
+/vol/wd_aurinsw_branch_vol13/.snapshot  262144000   30476688  231667312      12%  /vol/wd_aurinsw_branch_vol13/.snapshot
+/vol/wd_aurinsw_branch_vol14/ 4980736000  501218332 4479517668      10%  /vol/wd_aurinsw_branch_vol14/
+/vol/wd_aurinsw_branch_vol14/.snapshot  262144000  116993612  145150388      45%  /vol/wd_aurinsw_branch_vol14/.snapshot
+/vol/vf_NAS_AURINSW_rootvol/     996148       1492     994656       0%  /vol/vf_NAS_AURINSW_rootvol/
+/vol/vf_NAS_AURINSW_rootvol/.snapshot      52428      11868      40560      23%  /vol/vf_NAS_AURINSW_rootvol/.snapshot
+/vol/sv_test_vol/      9961472       4664    9956808       0%  /vol/sv_test_vol/
+/vol/sv_test_vol/.snapshot     524288       4300     519988       1%  /vol/sv_test_vol/.snapshot
+/vol/wd_auriwa_branch_vol06/  398458880     549696  397909184       0%  /vol/wd_auriwa_branch_vol06/
+/vol/wd_auriwa_branch_vol06/.snapshot   20971520     191052   20780468       1%  /vol/wd_auriwa_branch_vol06/.snapshot
+/vol/vol_SIF_Dev_01/  263979008      40488  263938520       0%  /vol/vol_SIF_Dev_01/
+/vol/vol_SIF_Dev_01/.snapshot   13893632      47324   13846308       0%  /vol/vol_SIF_Dev_01/.snapshot
+/vol/prd_itf_mp_vol01/    5033168       3400    5029768       0%  /vol/prd_itf_mp_vol01/
+/vol/prd_itf_mp_vol01/.snapshot    1258288       1156    1257132       0%  /vol/prd_itf_mp_vol01/.snapshot
+/vol/vol_trace/        9961472    1730424    8231048      17%  /vol/vol_trace/
+/vol/vol_trace/.snapshot     524288       4760     519528       1%  /vol/vol_trace/.snapshot
+/vol/vol_trace_test/   19922944    6507516   13415428      33%  /vol/vol_trace_test/
+/vol/vol_trace_test/.snapshot    1048576       6996    1041580       1%  /vol/vol_trace_test/.snapshot
+/vol/vol_trace_test_qld/   19922944    4221776   15701168      21%  /vol/vol_trace_test_qld/
+/vol/vol_trace_test_qld/.snapshot    1048576       1856    1046720       0%  /vol/vol_trace_test_qld/.snapshot
+/vol/Siebel_App_Datavol01/   10485760       7448   10478312       0%  /vol/Siebel_App_Datavol01/
+/vol/Siebel_App_Datavol01/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol01/.snapshot
+/vol/Siebel_App_Datavol02/   10485760       9128   10476632       0%  /vol/Siebel_App_Datavol02/
+/vol/Siebel_App_Datavol02/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol02/.snapshot
+/vol/Siebel_App_Datavol03/   10485760     178124   10307636       2%  /vol/Siebel_App_Datavol03/
+/vol/Siebel_App_Datavol03/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol03/.snapshot
+/vol/Siebel_App_Datavol04/   10485760     179116   10306644       2%  /vol/Siebel_App_Datavol04/
+/vol/Siebel_App_Datavol04/.snapshot          0          0          0     ---%  /vol/Siebel_App_Datavol04/.snapshot
+/vol/vf_test_rootvol/    9961472       4616    9956856       0%  /vol/vf_test_rootvol/
+/vol/vf_test_rootvol/.snapshot     524288       4300     519988       1%  /vol/vf_test_rootvol/.snapshot
+/vol/TestVol/          9961472     169768    9791704       2%  /vol/TestVol/
+/vol/TestVol/.snapshot     524288       4280     520008       1%  /vol/TestVol/.snapshot
+
+
+# Sun Jun 11 00:21:57 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="97490488-5513-4fab-965b-0bfb2fb6f2e11499392202269" response_time="00:00:00:163"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061008160038}</message></status></xml>
+
+# Sun Jun 11 00:00:26 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="72adc7d8-ab87-470d-84e2-5b527083d6f31499392202784" response_time="00:00:00:058"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017061007560026}</message></status></xml>
+
+# Sat Jun 10 00:00:25 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="1b6df0d8-889e-43d3-92c8-ecf6110f48921499392203213" response_time="00:00:00:043"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060907480044, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Sat Jun 10 00:11:50 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="2bb94648-2619-463e-ac7b-1fa0690c82681499392203610" response_time="00:00:00:060"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017060907160044}</message></status></xml>
+
+# Fri Jun  9 00:11:42 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="5d40f037-d718-48c6-ba81-21ca04f9c51c1499392204024" response_time="00:00:00:050"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060808070176, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Fri Jun  9 00:00:19 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="e945921d-00bd-4f0c-9110-5939b068ef4e1499392204428" response_time="00:00:00:035"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060807040168, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Thu Jun  8 00:00:35 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="965ba30d-5673-4957-8bb8-282b725f35e41499392204840" response_time="00:00:00:047"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060707440002, SECTION_DATA=Value:DF}</message></status></xml>
+
+# Thu Jun  8 00:11:34 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="ee9fce74-936d-4926-846c-dcd0b7ff8a9f1499392205248" response_time="00:00:00:066"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017060707150089}</message></status></xml>
+
+# Wed Jun  7 00:21:26 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="0ec875cd-53ad-4b08-ad09-8456687e9ec91499392205671" response_time="00:00:00:045"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF, ASUP_ID=Value:2017060607530192}</message></status></xml>
+
+# Wed Jun  7 00:00:19 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="840eda39-0149-478d-add5-a1b9a83f9e8d1499392206075" response_time="00:00:00:056"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060607370066, SECTION_DATA=Value:DF}</message></status></xml>

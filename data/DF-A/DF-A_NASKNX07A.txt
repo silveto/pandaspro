@@ -1,0 +1,253 @@
+
+
+# Sun Jul  2 00:34:30 2017 HA Group Notification (WEEKLY_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+Aggregate               kbytes       used      avail capacity  
+aggr01_nsas         115782104680 98382566932 17399537748      85%  
+aggr01_nsas/.snapshot          0          0          0     ---%  
+aggr0                326979552  290796292   36183260      89%  
+aggr0/.snapshot              0          0          0     ---%  
+
+
+# Sun Jul  2 00:14:30 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="b97612f3-3855-44ad-96f2-66f647b789381499392209827" response_time="00:00:00:057"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017070108010233, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sun Jul  2 00:00:09 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="93d251bd-7bdf-4250-8bee-9fa09c67105f1499392210336" response_time="00:00:00:060"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017070107040058, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sat Jul  1 00:24:23 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="7f0bf798-2c57-4930-8ed0-168413711e251499392211152" response_time="00:00:00:046"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017063008120059, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sat Jul  1 00:00:11 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="6d200334-0e42-40bf-9a13-7bb872d3b68c1499392212074" response_time="00:00:00:052"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017063007080068, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Fri Jun 30 00:24:14 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="1ce47053-992f-4f9e-9d5b-d134399621251499392212800" response_time="00:00:00:048"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062908240047, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Fri Jun 30 00:00:09 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="47a4fc59-a086-4a64-a0ea-fd3bc796b2bc1499392213304" response_time="00:00:00:062"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062907040071, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Thu Jun 29 00:00:12 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="497d4dfa-e1ab-4ae8-85fc-cb938f2e60df1499392214019" response_time="00:00:00:051"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062807400054, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Thu Jun 29 00:04:06 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="9c7eb45c-e809-4913-bccc-dca973671be71499392214419" response_time="00:00:00:041"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062807320033, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Wed Jun 28 00:00:15 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="5fe58ca0-9de7-4fd6-a5bd-a805aaf3cb001499392215401" response_time="00:00:00:059"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062707560057, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Wed Jun 28 00:04:00 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="ed6f2f4f-6301-4dc0-b7ce-57d58e8ae9e41499392215815" response_time="00:00:00:050"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062707360046, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Tue Jun 27 00:33:53 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="ac017d59-b007-4561-ae45-557c085ae07e1499392216280" response_time="00:00:00:065"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017062608020031}</message></status></xml>
+
+# Tue Jun 27 00:02:02 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="ddd3f445-f93d-490c-8ad4-72622f11d18e1499392216886" response_time="00:00:00:044"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017062607180046}</message></status></xml>
+
+# Mon Jun 26 00:26:39 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="bb6a3c32-37d9-4710-8686-c07472c3808b1499392217398" response_time="00:00:00:053"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062508110009, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Mon Jun 26 00:23:45 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="8ec8c261-4c75-420d-b70b-8d2852dde6ce1499392217891" response_time="00:00:00:051"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062507380139, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sun Jun 25 00:33:39 2017 HA Group Notification (WEEKLY_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+Aggregate               kbytes       used      avail capacity  
+aggr01_nsas         115782104680 98169669256 17612435424      85%  
+aggr01_nsas/.snapshot          0          0          0     ---%  
+aggr0                326979552  290796152   36183400      89%  
+aggr0/.snapshot              0          0          0     ---%  
+
+
+# Sun Jun 25 00:23:39 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="65a36261-e3ed-4e6b-8022-de4935403c991499392218720" response_time="00:00:00:046"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062407320044, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sun Jun 25 00:05:30 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="3aa273cf-21fa-4748-9f83-be857bb95ecb1499392219142" response_time="00:00:00:048"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017062407280010}</message></status></xml>
+
+# Sat Jun 24 00:13:33 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="235bb3be-65df-469b-b3bf-ef616b0dd9e81499392219984" response_time="00:00:00:048"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062308140028, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sat Jun 24 00:00:20 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="00f85cfd-804b-46d2-87f1-53d94e46dd471499392220390" response_time="00:00:00:045"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062307460044, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Fri Jun 23 00:01:11 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="db3fe97d-4749-4508-9ccf-fc6646db7ffe1499392220889" response_time="00:00:00:047"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062208010088, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Fri Jun 23 00:13:25 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="00a1cb57-c02d-4c06-b67e-d36ec0d311fd1499392221397" response_time="00:00:00:044"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017062207410166}</message></status></xml>
+
+# Thu Jun 22 00:33:18 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="399f10dc-5339-4ab4-9b94-ba0ae595b6c11499392221907" response_time="00:00:00:055"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017062108090087}</message></status></xml>
+
+# Thu Jun 22 00:00:31 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="bfc4747d-0fd4-4b43-b620-80573d207a2b1499392222422" response_time="00:00:00:059"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017062107050034}</message></status></xml>
+
+# Wed Jun 21 00:33:10 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="0ad52fef-27fa-4578-9ca1-5fada2f7f9511499392223034" response_time="00:00:00:054"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017062008170097}</message></status></xml>
+
+# Wed Jun 21 00:00:19 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="20360314-dce4-4119-ba19-6163d3cd3e8b1499392223585" response_time="00:00:00:054"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017062007490050, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Tue Jun 20 00:13:02 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="c16343fc-6163-4b88-8209-adc20c9251301499392224064" response_time="00:00:00:057"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061907250009, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Tue Jun 20 00:00:22 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="ab4cb9e7-d23a-4831-9534-ed433e631c401499392224489" response_time="00:00:00:044"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061907120083, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Mon Jun 19 00:32:55 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="3bb1d9e0-7503-444f-a8e6-ad9ca22004381499392225082" response_time="00:00:00:055"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061807530011, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Mon Jun 19 00:00:26 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="31aba2f1-b300-4429-b1ff-e208d571b08b1499392225498" response_time="00:00:00:057"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061807200073}</message></status></xml>
+
+# Sun Jun 18 00:22:49 2017 HA Group Notification (WEEKLY_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+Aggregate               kbytes       used      avail capacity  
+aggr01_nsas         115782104680 97909088160 17873016520      85%  
+aggr01_nsas/.snapshot          0          0          0     ---%  
+aggr0                326979552  290794876   36184676      89%  
+aggr0/.snapshot              0          0          0     ---%  
+
+
+# Sun Jun 18 00:47:49 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="6ef74d9d-d7c4-4cdd-aa57-fa2bedc57e811499392226517" response_time="00:00:00:046"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061708160083}</message></status></xml>
+
+# Sun Jun 18 00:00:12 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="e70ab389-2d3f-4e67-b324-408ec3601d371499392227136" response_time="00:00:00:041"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061707520002, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sat Jun 17 00:02:41 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="bef68767-22e8-4463-847b-15781f28de481499392227690" response_time="00:00:00:554"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061607470014}</message></status></xml>
+
+# Sat Jun 17 00:00:39 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="5de08cdc-398e-4112-a2dc-5deb264475be1499392228689" response_time="00:00:00:049"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061607470012, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Fri Jun 16 00:32:33 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="bf853e36-7941-4b86-9c2e-9f31ceca8db41499392229280" response_time="00:00:00:051"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061507520171, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Fri Jun 16 00:00:28 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="a6e91790-4e1d-47e9-93c6-90789fef24ae1499392229904" response_time="00:00:00:051"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061507290016}</message></status></xml>
+
+# Thu Jun 15 00:22:25 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="312c6ae6-220e-4426-b28e-c5b2d671d96c1499392233149" response_time="00:00:00:049"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061408060380, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Thu Jun 15 00:01:07 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="606b030f-d18e-4543-988b-47c349aa87451499392233890" response_time="00:00:00:044"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061407340077, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Wed Jun 14 00:22:18 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="b7d5123b-5d0c-48e5-afa2-94311ed909871499392234307" response_time="00:00:00:054"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061308220089}</message></status></xml>
+
+# Wed Jun 14 00:00:13 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="93b39617-014b-4926-8514-ad58881908f61499392234917" response_time="00:00:00:046"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061307080068}</message></status></xml>
+
+# Tue Jun 13 00:22:11 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="bd0294ef-5776-4e48-b4b5-2bb05f67db2d1499392235329" response_time="00:00:00:061"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061208100047}</message></status></xml>
+
+# Tue Jun 13 00:00:21 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="5bbd0134-91dc-45b3-8eb2-3f2fc0787fb31499392235939" response_time="00:00:00:052"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061207080192}</message></status></xml>
+
+# Mon Jun 12 00:22:03 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="89d97228-c8fd-4bab-a52f-bc70fdb11a701499392236362" response_time="00:00:00:051"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061108180055}</message></status></xml>
+
+# Mon Jun 12 00:22:03 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="45efc7de-17af-4aa1-a4dc-b1863e59ac2b1499392236961" response_time="00:00:00:053"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061108180055}</message></status></xml>
+
+# Mon Jun 12 00:00:08 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="3d00f149-9db5-4d7f-8b54-36f167ea68751499392237476" response_time="00:00:00:049"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061107340051}</message></status></xml>
+
+# Mon Jun 12 00:00:08 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="fad527bc-baf4-4c81-9a81-27f848c3f8441499392238085" response_time="00:00:00:057"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061107340051}</message></status></xml>
+
+# Sun Jun 11 00:22:06 2017 HA Group Notification (WEEKLY_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+Aggregate               kbytes       used      avail capacity  
+aggr01_nsas         115782104680 97520304984 18261799696      84%  
+aggr01_nsas/.snapshot          0          0          0     ---%  
+aggr0                326979552  290794436   36185116      89%  
+aggr0/.snapshot              0          0          0     ---%  
+
+
+# Sun Jun 11 00:21:57 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="c409d6d1-5000-4667-8cad-6c9dcb89fc8c1499392239728" response_time="00:00:00:048"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017061008160038}</message></status></xml>
+
+# Sun Jun 11 00:00:26 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="fcd17ab2-8319-4170-98d8-0ee48313210d1499392240246" response_time="00:00:00:061"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017061007560026, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sat Jun 10 00:00:25 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="71a58d12-e71b-4011-af42-114983a9e3a31499392240687" response_time="00:00:00:049"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060907480044, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Sat Jun 10 00:11:50 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="79e4c711-2db1-4af0-8b4c-e24215062da71499392241160" response_time="00:00:00:059"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060907160044, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Fri Jun  9 00:11:42 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="c27121c3-dc88-47e1-9742-97113cd00bf71499392241591" response_time="00:00:00:063"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060808070176, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Fri Jun  9 00:00:19 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="bdde4f42-24e6-4941-8660-53d162f09bb41499392242083" response_time="00:00:00:043"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060807040168, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Thu Jun  8 00:00:35 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="a84babe6-bc6b-44a1-99c0-c90900563bc01499392242605" response_time="00:00:00:049"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017060707440002}</message></status></xml>
+
+# Thu Jun  8 00:11:34 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="f0a70013-bd4a-4ca9-8f3c-dcf5d53a41a71499392243219" response_time="00:00:00:064"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{SECTION_DATA=Value:DF-A, ASUP_ID=Value:2017060707150089}</message></status></xml>
+
+# Wed Jun  7 00:21:26 2017 HA Group Notification (MANAGEMENT_LOG) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="d461dd16-2ddd-42fc-bda2-e39eb080949b1499392243680" response_time="00:00:00:059"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060607530192, SECTION_DATA=Value:DF-A}</message></status></xml>
+
+# Wed Jun  7 00:00:19 2017 HA Group Notification (PERFORMANCE DATA) INFO
+# hostname: NASKNX07A serialno: 451416000026
+<xml><status request_id="44872ffd-3de8-4f13-b608-64c950a3aea01499392244132" response_time="00:00:00:056"><client_id>asupfetch</client_id><status_code>ERROR</status_code><error_code>NO_DATA_FOUND</error_code><message type="ERROR">Invalid or No section(s) available for the request:{ASUP_ID=Value:2017060607370066, SECTION_DATA=Value:DF-A}</message></status></xml>
